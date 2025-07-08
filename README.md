@@ -1,4 +1,11 @@
-## Han Dong Hee 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcccc,30:ff9999,60:ff6666,100:ff4d4d&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+l3lak;Nice+To+Meet+You" alt="Typing SVG" />
+  </a>
+</div>
+  
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fe9ua1?color=red&label=hits&size=medium)](https://myhits.vercel.app)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -11,6 +18,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white)
+<br>
+<br>
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 <br>
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
