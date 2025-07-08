@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcccc,30:ff9999,60:ff6666,100:ff4d4d&height=100&section=header&text=&fontSize=0" width="100%"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+l3lak;Nice+To+Meet+You" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Inl3lack;Nice+To+Meet+You" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 <a href="mailto:lee038129@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://instagram.com/inl3lack" target="_blank">
+<a href="https://www.instagram.com/in13lack/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
