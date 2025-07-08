@@ -61,6 +61,25 @@
 ## Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ibm514)](https://solved.ac/ibm514/)
 
+---
+
+## 🏅 Certifications
+
+| 자격증명             | 영문명                                               | 비고 (Level/기관 등)              |
+|----------------------|--------------------------------------------------------|-----------------------------------|
+| 정보처리기사         | Engineer Information Processing                        | 한국산업인력공단                   |
+| 빅데이터분석기사     | Engineer Big Data Analysis                             | 한국데이터산업진흥원              |
+| SQLD                 | SQL Developer                                          | 한국데이터산업진흥원              |
+| ADsP                 | Advanced Data Analytics Semi-Professional              | 한국데이터산업진흥원              |
+| PCCP            | Programmers Certified Coding Professional [**C++**]              | Level 2 / 프로그래머스 (그렙)      |
+
+
+<br><br/>
+- 정보보안기사 (Engineer Information Security)(실기 진행중)
+- AICE(Artificial Intelligence Competency Exam)(진행중)
+- AWS Certified Cloud Practitioner(진행중)
+- PCCP master(진행중)
+
 ## Projects
 
 ### 🏫 INdoor Map
