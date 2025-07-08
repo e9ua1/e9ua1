@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-
-
 ---
 
 ## Tech Stack
@@ -63,6 +61,22 @@
 
 ---
 
+## Projects
+
+### 🏫 INdoor Map
+[🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
+건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
+
+### 🚅 이슈역 (Issue Station)
+[🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
+협업을 위한 **이슈 관리 시스템**  
+
+### 🖥️ VCS GUI
+[🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
+MacOS 기반의 **GUI Git 버전 관리 시스템**
+
+---
+
 ## 🏅 Certifications
 
 | 자격증명             | 영문명                                               | 비고 (Level/기관 등)              |
@@ -78,19 +92,5 @@
 - 정보보안기사 (Engineer Information Security)(실기 진행중)
 - AICE(Artificial Intelligence Competency Exam)(진행중)
 - AWS Certified Cloud Practitioner(진행중)
-- PCCP master(진행중)
-
-## Projects
-
-### 🏫 INdoor Map
-[🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
-건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
-
-### 🚅 이슈역 (Issue Station)
-[🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
-협업을 위한 **이슈 관리 시스템**  
-
-### 🖥️ VCS GUI
-[🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
-MacOS 기반의 **GUI Git 버전 관리 시스템**
+- PCCP Master(진행중)
 
