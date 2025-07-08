@@ -14,7 +14,7 @@
 <a href="mailto:lee038129@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.instagram.com/in13lack/" target="_blank">
+<a href="https://www.instagram.com/e4sth33/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
