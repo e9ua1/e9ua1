@@ -14,6 +14,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ibm514)](https://solved.ac/ibm514/)
+
 <!--
 **e9ua1/e9ua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
