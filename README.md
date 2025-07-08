@@ -61,6 +61,13 @@
 
 ---
 
+## 🏆 Collegiate Programming Contest
+
+- **Finalist**, ACPC (AWS × Codetree Programming Contest)
+- [🔗 대회 정보 보러가기](https://www.codetree.ai/ko/events/acpc)
+
+ --- 
+
 ## Projects
 
 ### 🏫 INdoor Map
