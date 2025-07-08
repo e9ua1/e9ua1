@@ -58,5 +58,20 @@
 
 ---
 
-## ⬛ Baekjoon Online Judge
+## Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ibm514)](https://solved.ac/ibm514/)
+
+## Projects
+
+### 🏫 INdoor Map
+[🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
+건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
+
+### 🚅 이슈역 (Issue Station)
+[🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
+협업을 위한 **이슈 관리 시스템**  
+
+### 🖥️ VCS GUI
+[🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
+MacOS 기반의 **GUI Git 버전 관리 시스템**
+
