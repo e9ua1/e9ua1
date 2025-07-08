@@ -97,6 +97,7 @@ MacOS 기반의 **GUI Git 버전 관리 시스템**
 
 <br><br/>
 - 정보보안기사 (Engineer Information Security)(실기 진행중)
+- 삼성 SW 역량 테스트 B형(professional)(dx 사전 테스트 완료)
 - AICE(Artificial Intelligence Competency Exam)(진행중)
 - AWS Certified Cloud Practitioner(진행중)
 - PCCP Master(진행중)
