@@ -99,6 +99,5 @@ MacOS 기반의 **GUI Git 버전 관리 시스템**
 
 <br><br/>
 - 정보보안기사 (Engineer Information Security)(11월 진행)
-- AICE(Artificial Intelligence Competency Exam)(진행중)
 - PCCP Master(진행중)
 
