@@ -96,7 +96,3 @@ MacOS 기반의 **GUI Git 버전 관리 시스템**
 | PCCP            | Programmers Certified Coding Professional [**C++**]              | Level 2 / 프로그래머스 (그렙)      |
 
 
-<br><br/>
-- 정보보안기사 (Engineer Information Security)(11월 진행)
-- PCCP Master(진행중)
-
