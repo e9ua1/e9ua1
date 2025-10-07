@@ -29,7 +29,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks & Web
