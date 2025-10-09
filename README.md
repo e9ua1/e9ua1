@@ -84,12 +84,13 @@ MacOS 기반의 **GUI Git 버전 관리 시스템**
 
 ## 🏅 Certifications
 
-| 자격증명             | 영문명                                               | 비고 (Level/기관 등)              |
-|----------------------|--------------------------------------------------------|-----------------------------------|
-| 정보처리기사         | Engineer Information Processing                        | 한국산업인력공단                   |
-| 빅데이터분석기사     | Engineer Big Data Analysis                             | 한국데이터산업진흥원              |
-| SQLD                 | SQL Developer                                          | 한국데이터산업진흥원              |
-| ADsP                 | Advanced Data Analytics Semi-Professional              | 한국데이터산업진흥원              |
-| PCCP            | Programmers Certified Coding Professional [**C++**]              | Level 2 / 프로그래머스 (그렙)      |
+| 자격증명 | 영문명 | 취득일 | 수준 | 점수 | 발급 기관 |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **정보처리기사** | Engineer Information Processing | 2024-09-10 | - | - | 한국산업인력공단 |
+| **빅데이터분석기사** | Engineer Big Data Analysis | 2025-07-11 | - | - | 한국데이터산업진흥원 |
+| **SQLD** | SQL Developer | 2024-09-20 | - | - | 한국데이터산업진흥원 |
+| **ADsP** | Advanced Data Analytics Semi-Professional | 2024-11-29 | - | - | 한국데이터산업진흥원 |
+| **TOPCIT** | Test of Practical Competency in IT | 2025-05-24 | 3 | 560 | 정보통신기획평가원 |
+| **PCCP [C++]** | Programmers Certified Coding Professional [C++] | 2025-02-21 | Lv.2 | 593 | 프로그래머스 (그렙) |
 
 
