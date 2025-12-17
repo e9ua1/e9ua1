@@ -18,6 +18,22 @@
   <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
+<br/>
+
+<div align="center">
+
+### 🧪 Operating [Dev Book Lab](https://github.com/dev-book-lab)
+
+> "**AI와 함께 기술의 본질(Essence)을 탐구합니다**"
+>
+> 개발 서적을 단순히 읽는 것에 그치지 않고,  
+> "**AI와의 문답(Deep Dive)**"을 통해 "**왜?**"를 집요하게 파고들며  
+> 학습 과정을 체계적으로 문서화하는 연구소를 운영하고 있습니다.
+
+[![Dev Book Lab](https://img.shields.io/badge/Organization-Dev%20Book%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-book-lab)
+
+</div>
+
 ---
 
 ## Tech Stack
@@ -29,7 +45,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks & Web
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
@@ -73,15 +88,34 @@
 
 ## Projects
 
-### 🏫 INdoor Map
+### 🔬 Dev Book Lab (Research & Study)
+> **AI Assisted Deep Dive Projects** > AI를 활용해 기술적 의문을 해소하고, 심층적인 학습 내용을 문서화하여 공유하는 프로젝트입니다.
+
+#### 📖 Java API Reference
+[🔗 GitHub Repository](https://github.com/dev-book-lab/java-api-reference)  
+단순 사용법이 아닌 **내부 동작 원리**를 파헤치는 **Java API 심화 분석 저장소**
+
+#### 📚 Modern Java in Action
+[🔗 GitHub Repository](https://github.com/dev-book-lab/modern-java-in-action)  
+AI와 함께 **함수형 프로그래밍의 패러다임**을 분석하고 정리한 **모던 자바 학습 저장소**
+
+#### 📖 오브젝트 (Object)
+[🔗 GitHub Repository](https://github.com/dev-book-lab/object)  
+조영호 님의 **오브젝트** 책을 기반으로 **객체지향 설계와 책임 주도 설계**를 탐구하는 저장소
+
+<br/>
+
+### 🚀 Application Development
+
+#### 🏫 INdoor Map
 [🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
 건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
 
-### 🚅 이슈역 (Issue Station)
+#### 🚅 이슈역 (Issue Station)
 [🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
-협업을 위한 **이슈 관리 시스템**  
+협업을 위한 **이슈 관리 시스템**
 
-### 🖥️ VCS GUI
+#### 🖥️ VCS GUI
 [🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
 MacOS 기반의 **GUI Git 버전 관리 시스템**
 
