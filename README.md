@@ -103,6 +103,11 @@ AI와 함께 **함수형 프로그래밍의 패러다임**을 분석하고 정�
 [🔗 GitHub Repository](https://github.com/dev-book-lab/object)  
 조영호 님의 **오브젝트** 책을 기반으로 **객체지향 설계와 책임 주도 설계**를 탐구하는 저장소
 
+#### 🎨 Java Design Patterns
+[🔗 GitHub Repository](https://github.com/dev-book-lab/java-design-patterns)  
+
+GoF부터 Modern Java 패턴까지, **실전 예제와 Before/After 비교**를 통해 설계의 원리를 파헤치는 **디자인 패턴 심화 저장소**
+
 <br/>
 
 ### 🚀 Application Development
