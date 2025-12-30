@@ -52,7 +52,6 @@
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### AI / LLMs
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F.svg?&style=for-the-badge&logo=huggingface&logoColor=black)
