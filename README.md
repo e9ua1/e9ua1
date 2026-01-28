@@ -34,6 +34,8 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -42,6 +44,8 @@
 </p>
 
 ---
+
+<br/>
 
 ## 🏆 Baekjoon Online Judge
 
@@ -62,6 +66,8 @@
 - [🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/cpc-poster/main/ACPC_2025_Poster.png)
 
  --- 
+
+<br/>
 
 ## Projects
 
