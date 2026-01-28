@@ -6,18 +6,6 @@
   </a>
 </div>
 
-## Contact
-
-<!-- Naver Email Badge (Green) -->
-<a href="mailto:lee038129@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail" />
-</a>
-
-<!-- Instagram Badge (연핑크 느낌) -->
-<a href="https://www.instagram.com/e4sth33/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
 <br/>
 
 <div align="center">
@@ -45,8 +33,6 @@
 
 ---
 
-<br/>
-
 ## 🏆 Baekjoon Online Judge
 
 <a href="https://solved.ac/ibm514">
@@ -56,7 +42,6 @@
   <img src="http://mazandi.herokuapp.com/api?handle=ibm514&theme=warm" height="170" alt="Baekjoon Grass" />
 </a>
 
----
 
 ## 🏆 Collegiate Programming Contest
 
@@ -67,9 +52,36 @@
 
  --- 
 
-<br/>
+## 🏅 Certifications
+
+| 자격증명 | 영문명 | 취득일 | 수준 | 점수 | 발급 기관 |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **정보처리기사** | Engineer Information Processing | 2024-09-10 | - | - | 한국산업인력공단 |
+| **빅데이터분석기사** | Engineer Big Data Analysis | 2025-07-11 | - | - | 한국데이터산업진흥원 |
+| **SQLD** | SQL Developer | 2024-09-20 | - | - | 한국데이터산업진흥원 |
+| **ADsP** | Advanced Data Analytics Semi-Professional | 2024-11-29 | - | - | 한국데이터산업진흥원 |
+| **TOPCIT** | Test of Practical Competency in IT | 2025-05-24 | 3 | 560 | 정보통신기획평가원 |
+| **PCCP [C++]** | Programmers Certified Coding Professional [C++] | 2025-02-21 | Lv.2 | 593 | 프로그래머스 (그렙) |
+
+---
 
 ## Projects
+
+### 🚀 Application Development
+
+#### 🏫 INdoor Map
+[🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
+건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
+
+#### 🚅 이슈역 (Issue Station)
+[🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
+협업을 위한 **이슈 관리 시스템**
+
+#### 🖥️ VCS GUI
+[🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
+MacOS 기반의 **GUI Git 버전 관리 시스템**
+
+<br/>
 
 ### 🔬 Dev Book Lab (Research & Study)
 > **AI Assisted Deep Dive Projects** > AI를 활용해 기술적 의문을 해소하고, 심층적인 학습 내용을 문서화하여 공유하는 프로젝트입니다.
@@ -91,33 +103,6 @@ AI와 함께 **함수형 프로그래밍의 패러다임**을 분석하고 정�
 
 GoF부터 Modern Java 패턴까지, **실전 예제와 Before/After 비교**를 통해 설계의 원리를 파헤치는 **디자인 패턴 심화 저장소**
 
-<br/>
-
-### 🚀 Application Development
-
-#### 🏫 INdoor Map
-[🔗 GitHub Repository](https://github.com/e9ua1/INdoor_Map)  
-건물 내부에서의 경로 안내를 제공하는 **실내 길찾기 서비스**
-
-#### 🚅 이슈역 (Issue Station)
-[🔗 GitHub Repository](https://github.com/e9ua1/Issue-Station)  
-협업을 위한 **이슈 관리 시스템**
-
-#### 🖥️ VCS GUI
-[🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
-MacOS 기반의 **GUI Git 버전 관리 시스템**
-
 ---
-
-## 🏅 Certifications
-
-| 자격증명 | 영문명 | 취득일 | 수준 | 점수 | 발급 기관 |
-| :--- | :--- | :---: | :---: | :---: | :--- |
-| **정보처리기사** | Engineer Information Processing | 2024-09-10 | - | - | 한국산업인력공단 |
-| **빅데이터분석기사** | Engineer Big Data Analysis | 2025-07-11 | - | - | 한국데이터산업진흥원 |
-| **SQLD** | SQL Developer | 2024-09-20 | - | - | 한국데이터산업진흥원 |
-| **ADsP** | Advanced Data Analytics Semi-Professional | 2024-11-29 | - | - | 한국데이터산업진흥원 |
-| **TOPCIT** | Test of Practical Competency in IT | 2025-05-24 | 3 | 560 | 정보통신기획평가원 |
-| **PCCP [C++]** | Programmers Certified Coding Professional [C++] | 2025-02-21 | Lv.2 | 593 | 프로그래머스 (그렙) |
 
 
