@@ -81,28 +81,6 @@
 [🔗 GitHub Repository](https://github.com/e9ua1/VCS_GUI)  
 MacOS 기반의 **GUI Git 버전 관리 시스템**
 
-<br/>
-
-### 🔬 Dev Book Lab (Research & Study)
-> **AI Assisted Deep Dive Projects** > AI를 활용해 기술적 의문을 해소하고, 심층적인 학습 내용을 문서화하여 공유하는 프로젝트입니다.
-
-#### 📖 Java API Reference
-[🔗 GitHub Repository](https://github.com/dev-book-lab/java-api-reference)  
-단순 사용법이 아닌 **내부 동작 원리**를 파헤치는 **Java API 심화 분석 저장소**
-
-#### 📚 Modern Java in Action
-[🔗 GitHub Repository](https://github.com/dev-book-lab/modern-java-in-action)  
-AI와 함께 **함수형 프로그래밍의 패러다임**을 분석하고 정리한 **모던 자바 학습 저장소**
-
-#### 📖 오브젝트 (Object)
-[🔗 GitHub Repository](https://github.com/dev-book-lab/object)  
-조영호 님의 **오브젝트** 책을 기반으로 **객체지향 설계와 책임 주도 설계**를 탐구하는 저장소
-
-#### 🎨 Java Design Patterns
-[🔗 GitHub Repository](https://github.com/dev-book-lab/java-design-patterns)  
-
-GoF부터 Modern Java 패턴까지, **실전 예제와 Before/After 비교**를 통해 설계의 원리를 파헤치는 **디자인 패턴 심화 저장소**
-
 ---
 
 
