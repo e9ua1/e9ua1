@@ -24,6 +24,22 @@
 
 <br/>
 
+<div align="center">
+
+### 💎 [Woowacourse 8th BE - IQ Archive](https://github.com/Woowa-8th-BE-IQ)
+
+> "**I Question, therefore I am.**"
+>
+> 우아한테크코스 8기 백엔드 크루로 참여하며,  
+> 표면적인 구현을 넘어 끊임없는 '**질문(Question)**'을 통해  
+> 객체 지향과 자바의 본질을 탐구하는 기록소입니다.
+
+[![Woowa 8th BE IQ](https://img.shields.io/badge/Organization-Woowa_8th_BE_Archive-00bfa5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Woowa-8th-BE-IQ)
+
+</div>
+
+<br/>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
