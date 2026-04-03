@@ -63,7 +63,7 @@
 
 ## 🏆 Collegiate Programming Contest
 
-**Finalist**, SCPC (Samsung Collegiate Programming Cup)  
+**Finalist**, SCPC (Samsung Collegiate Programming Cup) **[Algorithm Track]**   
 [🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/e9ua1/main/cpc/SCPC_2025_Poster.jpg)
 
 <br/>
