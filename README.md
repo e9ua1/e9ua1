@@ -63,19 +63,13 @@
 
 ## 🏆 Collegiate Programming Contest
 
-
-
 **Finalist**, SCPC (Samsung Collegiate Programming Cup)  
+[🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/e9ua1/main/cpc/SCPC_2025_Poster.jpg)
 
-[🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/e9ua1/cpc/SCPC_2025_Poster.jpg)
-
-
+<br/>
 
 **Finalist**, ACPC (AWS × Codetree Programming Contest)  
-
-[🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/e9ua1/cpc/ACPC_2025_Poster.png)
-
-
+[🔗 대회 정보 보러가기](https://raw.githubusercontent.com/e9ua1/e9ua1/main/cpc/ACPC_2025_Poster.png)
 
 <br/>
 
