@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-### ⚛️ Operating IQ Lab
+### 🔍 Operating IQ Lab
 [![IQ Lab](https://img.shields.io/badge/IQ_Lab-dev--book--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://dev-book-lab.github.io)
 > "**AI와 함께 기술의 본질(Essence)을 탐구합니다**"
 >
