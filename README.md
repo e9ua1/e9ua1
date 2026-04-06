@@ -11,15 +11,15 @@
 <br/>
 <br/>
 
-### 🔍 Operating IQ Lab
-[![IQ Lab](https://img.shields.io/badge/IQ_Lab-dev--book--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://dev-book-lab.github.io)
+### 🔍 Operating IQ Dev Lab
+[![IQ Lab](https://img.shields.io/badge/IQ_Lab-iq--dev--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-dev-lab.github.io)
 > "**AI와 함께 기술의 본질(Essence)을 탐구합니다**"
 >
-> 개발 서적을 단순히 읽는 것에 그치지 않고,  
+> 공식 문서와 표준 레퍼런스를 AI와 함께 깊이 분석하고,  
 > "**AI와의 문답(Deep Dive)**"을 통해 "**왜?**"를 집요하게 파고들며  
-> 학습 과정을 체계적으로 문서화하는 연구소를 운영하고 있습니다.
+> 탐구 과정을 체계적으로 문서화하는 연구소를 운영하고 있습니다.
 
-[![Dev Book Lab](https://img.shields.io/badge/Organization-Dev%20Book%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-book-lab)
+[![IQ Dev Lab](https://img.shields.io/badge/Organization-IQ%20Dev%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-dev-lab)
 
 <br/>
 
