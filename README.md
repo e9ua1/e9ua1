@@ -12,7 +12,7 @@
 <br/>
 
 ### 🔍 Operating IQ Dev Lab
-[![IQ Lab](https://img.shields.io/badge/IQ_Lab-iq--dev--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-dev-lab.github.io)
+[![IQ Dev Lab](https://img.shields.io/badge/IQ_Lab-iq--dev--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-dev-lab.github.io)
 > "**AI와 함께 기술의 본질(Essence)을 탐구합니다**"
 >
 > 공식 문서와 표준 레퍼런스를 AI와 함께 깊이 분석하고,  
