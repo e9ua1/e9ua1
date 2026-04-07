@@ -11,6 +11,18 @@
 <br/>
 <br/>
 
+### 🎬 Operating See Why
+[![See Why](https://img.shields.io/badge/See_Why-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SeeWhy-l3n)
+> "**Complex concepts visualized — so the answer feels inevitable, not memorized.**"
+>
+> 수학·AI·알고리즘의 핵심 직관을 manim으로 시각화합니다.  
+> 보고 나면 당연하게 느껴지도록.
+
+[![See Why Lab](https://img.shields.io/badge/Organization-See%20Why%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/see-why-lab)
+<br/>
+
+---
+
 ### 🔍 Operating IQ Dev Lab
 [![IQ Dev Lab](https://img.shields.io/badge/IQ_Dev_Lab-iq--dev--lab.github.io-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-dev-lab.github.io)
 > "**AI와 함께 기술의 본질(Essence)을 탐구합니다**"
@@ -22,6 +34,8 @@
 [![IQ Dev Lab](https://img.shields.io/badge/Organization-IQ%20Dev%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-dev-lab)
 
 <br/>
+
+---
 
 ### 💎 [Woowacourse 8th BE - IQ Archive](https://github.com/Woowa-8th-BE-IQ)
 
