@@ -61,13 +61,9 @@
 <br/>
 
 ## 🏆 Baekjoon Online Judge
-
+ 
 <a href="https://solved.ac/ibm514">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ibm514&theme=dark" height="170" alt="Solved.ac Tier" />
-</a>
-&nbsp;
-<a href="https://solved.ac/ibm514">
-  <img src="http://mazandi.herokuapp.com/api?handle=ibm514&theme=dark" height="170" alt="Baekjoon Grass" />
 </a>
 
 <br/>
