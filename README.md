@@ -111,7 +111,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,fastapi,docker,git,github,pytorch,astro" />
+<img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,fastapi,docker,git,github" />
 
 ---
 
