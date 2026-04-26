@@ -19,20 +19,6 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://www.youtube.com/@SeeWhy-l3n">
-  <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
-  <br/>
-  <b>See Why</b>
-</a>
-<br/>
-<sub>수학·AI 시각화 채널</sub>
-<br/>
-<br/>
-<a href="https://www.youtube.com/@SeeWhy-l3n">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-</a>
-</td>
-<td align="center" width="33%">
 <a href="https://iq-proof.github.io">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
   <br/>
@@ -60,8 +46,6 @@
   <img src="https://img.shields.io/badge/iq--dev--lab.github.io-ff4d4d?style=flat-square&logo=gitbook&logoColor=white" />
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="33%">
 <a href="https://iq-ai-lab.github.io">
   <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="28"/>
@@ -76,6 +60,8 @@
   <img src="https://img.shields.io/badge/iq--ai--lab.github.io-a78bfa?style=flat-square&logo=openai&logoColor=white" />
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
@@ -94,14 +80,28 @@
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="28"/>
   <br/>
-  <b>Woowa 8th BE</b>
+  <b>Woowa&nbsp;8th&nbsp;BE</b>
 </a>
 <br/>
-<sub>우테코 8기 백엔드 아카이브</sub>
+<sub>우테코 8기 백엔드</sub>
 <br/>
 <br/>
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://img.shields.io/badge/Organization-00bfa5?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.youtube.com/@SeeWhy-l3n">
+  <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
+  <br/>
+  <b>See Why</b>
+</a>
+<br/>
+<sub>수학·AI 시각화 채널</sub>
+<br/>
+<br/>
+<a href="https://www.youtube.com/@SeeWhy-l3n">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -110,19 +110,6 @@
 <br/>
 
 ## 📖 Details
-
-<details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="16" align="center"/> &nbsp;<b>See Why</b> &nbsp;—&nbsp; 수학·AI 시각화 유튜브 채널</summary>
-
-<br/>
-
-> ***"Complex concepts visualized — so the answer feels inevitable, not memorized."***
-
-수학·AI·알고리즘의 핵심 **직관**을 manim으로 **시각화**하고, 보고 나면 당연하게 느껴지도록 풀어내는 채널.
-
-[![See Why](https://img.shields.io/badge/Visit_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SeeWhy-l3n)
-
-</details>
 
 <details>
 <summary>&nbsp;<img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="16" align="center"/> &nbsp;<b>IQ Lab Blog</b> &nbsp;—&nbsp; 본질을 증명하는 딥다이브 발행 허브</summary>
@@ -206,13 +193,18 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 </details>
 
+<details>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="16" align="center"/> &nbsp;<b>See Why</b> &nbsp;—&nbsp; 수학·AI 시각화 유튜브 채널</summary>
+
 <br/>
 
-## 🛠️ Tech Stack
+> ***"Complex concepts visualized — so the answer feels inevitable, not memorized."***
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,fastapi,docker,git,github" />
-</div>
+수학·AI·알고리즘의 핵심 **직관**을 manim으로 **시각화**하고, 보고 나면 당연하게 느껴지도록 풀어내는 채널.
+
+[![See Why](https://img.shields.io/badge/Visit_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SeeWhy-l3n)
+
+</details>
 
 <br/>
 
