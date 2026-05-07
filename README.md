@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🌐 Operating Now
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%231a1a1a" width="28"/> IQ Universe
 
 <table>
 <tr>
@@ -109,7 +109,7 @@
 
 <br/>
 
-## 📖 Details
+## <img src="https://api.iconify.design/lucide/telescope.svg?color=%231a1a1a" width="28"/> Details
 
 <details>
 <summary>&nbsp;<img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="16" align="center"/> &nbsp;<b>IQ Lab Blog</b> &nbsp;—&nbsp; 본질을 증명하는 딥다이브 발행 허브</summary>
@@ -208,7 +208,7 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 <br/>
 
-## 🪶 Saga Tales
+## <img src="https://api.iconify.design/lucide/feather.svg?color=%231a1a1a" width="28"/> Saga Tales
 
 <div align="center">
 
@@ -252,7 +252,7 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 <br/>
 
-## 🏆 Achievements
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%231a1a1a" width="28"/> Achievements
 
 <details>
 <summary>&nbsp;<b>Baekjoon Online Judge</b></summary>
