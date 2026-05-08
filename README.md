@@ -63,6 +63,20 @@
 </tr>
 <tr>
 <td align="center" width="33%">
+<a href="https://iq-label.github.io">
+  <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
+  <br/>
+  <b>IQ Label</b>
+</a>
+<br/>
+<sub>한국 fusion 음악 레이블</sub>
+<br/>
+<br/>
+<a href="https://iq-label.github.io">
+  <img src="https://img.shields.io/badge/iq--label.github.io-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
+</a>
+</td>
+<td align="center" width="33%">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
   <br/>
@@ -90,6 +104,8 @@
   <img src="https://img.shields.io/badge/Organization-00bfa5?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://www.youtube.com/@SeeWhy-l3n">
   <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
@@ -104,6 +120,8 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 </td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
 </tr>
 </table>
 
@@ -159,6 +177,24 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 [![IQ AI Lab](https://img.shields.io/badge/Visit_Site-a78bfa?style=for-the-badge&logo=openai&logoColor=white)](https://iq-ai-lab.github.io)
 [![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-ai-lab)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="16" align="center"/> &nbsp;<b>IQ Label</b> &nbsp;—&nbsp; AI 생성 × 손 큐레이션 fusion 음악 레이블</summary>
+
+<br/>
+
+> ***"신박한 조합, 신나는 출퇴근."***
+
+한국 전통악기와 현대 장르의 조합으로 만들어진 fusion 음악 레이블.
+
+장구·북·가야금·해금·단소·거문고를 boom-bap·funky·jazz·ambient·lo-fi·experimental과 fusion. **iq-composer**가 한 트랙당 30~50개 후보를 양산하면, IQ가 그중 하나를 큐레이션해 발행합니다. 시장에 존재하지 않는 조합일수록 좋다.
+
+📝 운영 회고와 큐레이션 노트는 [**IQ Lab Blog**](https://iq-proof.github.io)에 발행됩니다.
+
+[![Label Q](https://img.shields.io/badge/Visit_Site-E84852?style=for-the-badge&logo=bandcamp&logoColor=white)](https://iq-label.github.io)
+[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-label)
 
 </details>
 
