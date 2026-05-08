@@ -22,7 +22,7 @@
 <a href="https://iq-proof.github.io">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
   <br/>
-  <b>IQ Lab Blog</b>
+  <b>IQ Blog</b>
 </a>
 <br/>
 <sub>딥다이브 발행 허브</sub>
