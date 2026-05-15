@@ -244,62 +244,6 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/feather.svg?color=%231a1a1a" width="28"/> Saga Tales
-
-<div align="center">
-
-> ***"우리의 사가를, 하나의 이야기씩."***
-
-<br/>
-
-<a href="https://github.com/Saga-Tales">
-  <img src="https://api.iconify.design/lucide/library.svg?color=%238b3a3a" width="32"/>
-  <br/>
-  <b>Saga Tales</b>
-</a>
-<br/>
-<sub>창업 venture studio</sub>
-<br/>
-<br/>
-<a href="https://github.com/Saga-Tales">
-  <img src="https://img.shields.io/badge/Organization-8b3a3a?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-창업을 준비하며 매주 하나의 Tale을 만들고 검증합니다.
-
-### Tales
-
-<details>
-<summary>&nbsp;<b>Tale 01 · diary</b> &nbsp;—&nbsp; 사적인 일기 에이전트</summary>
-<br/>
-
-소중한 사람들에 대한 일상을 기록하면 LLM이 자동으로 사실(fact)을 누적하고, 의미 검색으로 과거를 회상해 맥락 있는 조언을 줍니다.
-데이터와 API 키 모두 사용자 브라우저에만 살고, 백엔드 서버는 존재하지 않습니다.
-
-[![Live Site](https://img.shields.io/badge/Live_Site-d4a574?style=for-the-badge&logo=githubpages&logoColor=white)](https://saga-tales.github.io/tale-01-personal-diary-iq/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saga-Tales/tale-01-personal-diary-iq)
-
-</details>
-
-<details>
-<summary>&nbsp;<b>Tale 02 · convo·trace</b> &nbsp;—&nbsp; 영어 회화 학습 도구</summary>
-<br/>
-
-영어 회화 도중 만나는 모든 학습 모먼트(짧은 답변·모르는 단어·좋은 표현)를 컨텍스트와 함께 흔적으로 남기고, 남긴 표현이 다음 회화의 시나리오에 자연스럽게 다시 등장하는 회상 폐쇄 루프 학습 도구.
-N명 페어 모드와 QR 캡처 동기화로 영어 회화 동아리 페어 활동에서도 학습이 누적됩니다.
-데이터와 API 키 모두 사용자 브라우저에만 살고, 백엔드 서버는 존재하지 않습니다.
-
-[![Live Site](https://img.shields.io/badge/Live_Site-d4a574?style=for-the-badge&logo=githubpages&logoColor=white)](https://saga-tales.github.io/tale-02-convo-trace-iq/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saga-Tales/tale-02-convo-trace-iq)
-
-</details>
-
-<br/>
-
 ## <img src="https://api.iconify.design/lucide/trophy.svg?color=%231a1a1a" width="28"/> Achievements
 
 <details>
