@@ -19,20 +19,6 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
-  <br/>
-  <b>IQ Blog</b>
-</a>
-<br/>
-<sub>딥다이브 발행 허브</sub>
-<br/>
-<br/>
-<a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--blog-00d9ff?style=flat-square&logo=astro&logoColor=white" />
-</a>
-</td>
-<td align="center" width="33%">
 <a href="https://iq-dev-lab.github.io">
   <img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="28"/>
   <br/>
@@ -60,22 +46,6 @@
   <img src="https://img.shields.io/badge/iq--ai--lab.github.io-a78bfa?style=flat-square&logo=openai&logoColor=white" />
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
-  <br/>
-  <b>IQ Label</b>
-</a>
-<br/>
-<sub>fusion 음악 레이블</sub>
-<br/>
-<br/>
-<a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--label-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
-</a>
-</td>
 <td align="center" width="33%">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
@@ -88,6 +58,36 @@
 <br/>
 <a href="https://iq-agent-lab.github.io">
   <img src="https://img.shields.io/badge/iq--agent--lab.github.io-cc785c?style=flat-square&logo=anthropic&logoColor=white" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://iq-universe.github.io/iq-blog/">
+  <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
+  <br/>
+  <b>IQ Blog</b>
+</a>
+<br/>
+<sub>딥다이브 발행 허브</sub>
+<br/>
+<br/>
+<a href="https://iq-universe.github.io/iq-blog/">
+  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--blog-00d9ff?style=flat-square&logo=astro&logoColor=white" />
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://iq-universe.github.io/iq-label/">
+  <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
+  <br/>
+  <b>IQ Label</b>
+</a>
+<br/>
+<sub>fusion 음악 레이블</sub>
+<br/>
+<br/>
+<a href="https://iq-universe.github.io/iq-label/">
+  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--label-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
