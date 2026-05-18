@@ -194,7 +194,6 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 📝 운영 회고와 큐레이션 노트는 [**IQ Lab Blog**](https://iq-proof.github.io)에 발행됩니다.
 
 [![Label Q](https://img.shields.io/badge/Visit_Site-E84852?style=for-the-badge&logo=bandcamp&logoColor=white)](https://iq-universe.github.io/iq-label/)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-universe)
 
 </details>
 
