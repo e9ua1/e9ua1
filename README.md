@@ -63,17 +63,17 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-<a href="https://iq-label.github.io">
+<a href="https://iq-universe.github.io/iq-label/">
   <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
   <br/>
   <b>IQ Label</b>
 </a>
 <br/>
-<sub>한국 fusion 음악 레이블</sub>
+<sub>fusion 음악 레이블</sub>
 <br/>
 <br/>
-<a href="https://iq-label.github.io">
-  <img src="https://img.shields.io/badge/iq--label.github.io-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
+<a href="https://iq-universe.github.io/iq-label/">
+  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--label-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
@@ -193,8 +193,8 @@ RL·DL·NLP·LLM의 핵심 논문과 수학적 유도 과정을 AI와 함께 분
 
 📝 운영 회고와 큐레이션 노트는 [**IQ Lab Blog**](https://iq-proof.github.io)에 발행됩니다.
 
-[![Label Q](https://img.shields.io/badge/Visit_Site-E84852?style=for-the-badge&logo=bandcamp&logoColor=white)](https://iq-label.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-label)
+[![Label Q](https://img.shields.io/badge/Visit_Site-E84852?style=for-the-badge&logo=bandcamp&logoColor=white)](https://iq-universe.github.io/iq-label/)
+[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-universe)
 
 </details>
 
