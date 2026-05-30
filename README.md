@@ -2,9 +2,32 @@
 
 <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/supernova-header.svg" width="100%" alt="Hello, I'm IQ — Nice To Meet You"/>
 
+<i>✦ &nbsp; I question, therefore I am. &nbsp; ✦</i>
+
+</div>
+
 <br/>
 
-> ***"✦ &nbsp; I question, therefore I am. &nbsp; ✦"***
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%231a1a1a" width="28"/> Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -21,11 +44,11 @@
   <b>IQ Dev Lab</b>
 </a>
 <br/>
-<sub>개발 전 영역 deep-dive</sub>
+<sub>개발 전 영역 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
-  <img src="https://img.shields.io/badge/iq--dev--lab.github.io-ff4d4d?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=gitbook&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
@@ -35,11 +58,11 @@
   <b>IQ AI Lab</b>
 </a>
 <br/>
-<sub>AI 이론 deep-dive</sub>
+<sub>AI 수학적 본질 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
-  <img src="https://img.shields.io/badge/iq--ai--lab.github.io-a78bfa?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=openai&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
@@ -49,11 +72,11 @@
   <b>IQ Agent Lab</b>
 </a>
 <br/>
-<sub>에이전트 자동화 인프라</sub>
+<sub>에이전트 자동화 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-agent-lab.github.io">
-  <img src="https://img.shields.io/badge/iq--agent--lab.github.io-cc785c?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=anthropic&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -69,7 +92,7 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--blog-00d9ff?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=astro&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
@@ -83,7 +106,7 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://img.shields.io/badge/iq--universe.github.io%2Fiq--label-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
 </a>
 </td>
 <td align="center" width="33%">
@@ -97,12 +120,12 @@
 <br/>
 <br/>
 <a href="https://github.com/Woowa-8th-BE-IQ">
-  <img src="https://img.shields.io/badge/Organization-00bfa5?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" colspan="3">
 <a href="https://www.youtube.com/@SeeWhy-l3n">
   <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
   <br/>
@@ -113,11 +136,9 @@
 <br/>
 <br/>
 <a href="https://www.youtube.com/@SeeWhy-l3n">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 </td>
-<td align="center" width="33%"></td>
-<td align="center" width="33%"></td>
 </tr>
 </table>
 
@@ -355,3 +376,28 @@
 </table>
 
 </details>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%231a1a1a" width="28"/> Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=e9ua1&show_icons=true&count_private=true&hide_border=true&bg_color=0a0420&title_color=00d9ff&text_color=cfd6ff&icon_color=7b2ff7" alt="IQ's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e9ua1&layout=compact&hide_border=true&bg_color=0a0420&title_color=00d9ff&text_color=cfd6ff" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=e9ua1&hide_border=true&background=0a0420&stroke=7b2ff7&ring=00d9ff&fire=ff5fc0&currStreakLabel=00d9ff&sideLabels=cfd6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8fb0" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=e9ua1&color=7b2ff7&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,35:7b2ff7,70:2b1055,100:0b1026&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=72" width="100%"/>
+
+</div>
