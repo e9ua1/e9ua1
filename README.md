@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcccc,30:ff9999,60:ff6666,100:ff4d4d&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+IQ;Nice+To+Meet+You" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/supernova-header.svg" width="100%" alt="Hello, I'm IQ — Nice To Meet You"/>
 
 <br/>
 
-> ***"I question, therefore I am."***
+> ***"✦ &nbsp; I question, therefore I am. &nbsp; ✦"***
 
 </div>
 
