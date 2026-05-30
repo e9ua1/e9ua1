@@ -1,0 +1,183 @@
+<svg viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hello, I'm IQ">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1a0b3d"/>
+      <stop offset="45%" stop-color="#0a0420"/>
+      <stop offset="100%" stop-color="#03020a"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="22%" stop-color="#b9f6ff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7b2ff7" stop-opacity="0.5"/>
+      <stop offset="78%" stop-color="#ff2fb0" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ff2fb0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#d6f6ff"/>
+      <stop offset="75%" stop-color="#8a5bff"/>
+      <stop offset="100%" stop-color="#8a5bff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rayfade" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="vfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="84%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#05020f" stop-opacity="0.66"/>
+      <stop offset="64%" stop-color="#05020f" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#05020f" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="raymask"><rect width="1200" height="300" fill="url(#rayfade)"/></mask>
+    <mask id="bottomfade"><rect width="1200" height="300" fill="url(#vfade)"/></mask>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="tglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#a05bff" flood-opacity="0.95"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#00d9ff" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes spin   { to { transform: rotate(360deg); } }
+    @keyframes spinr  { to { transform: rotate(-360deg); } }
+    @keyframes pulse  { 0%,100% { transform: scale(1); }   50% { transform: scale(1.14); } }
+    @keyframes breathe{ 0%,100% { opacity: .5; }            50% { opacity: .92; } }
+    @keyframes flick  { 0%,100% { opacity: .45; }           50% { opacity: .9; } }
+    @keyframes shock  { 0% { transform: scale(.18); opacity: .75; } 70% { opacity: .22; } 100% { transform: scale(2.7); opacity: 0; } }
+    @keyframes twinkle{ 0%,100% { opacity: .15; }           50% { opacity: 1; } }
+    @keyframes blink  { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+
+    @keyframes opA { 0% { opacity: 1; } 44% { opacity: 1; } 49% { opacity: 0; } 100% { opacity: 0; } }
+    @keyframes opB { 0% { opacity: 0; } 48% { opacity: 0; } 51% { opacity: 1; } 96% { opacity: 1; } 100% { opacity: 0; } }
+
+    @keyframes typeA {
+      0%     { clip-path: inset(0 100% 0 0); animation-timing-function: steps(13, end); }
+      18%    { clip-path: inset(0 0 0 0); }
+      50%    { clip-path: inset(0 0 0 0); }
+      50.01% { clip-path: inset(0 100% 0 0); }
+      100%   { clip-path: inset(0 100% 0 0); }
+    }
+    @keyframes caretA {
+      0%   { transform: translateX(0); animation-timing-function: steps(13, end); }
+      18%  { transform: translateX(250px); }
+      100% { transform: translateX(250px); }
+    }
+    @keyframes typeB {
+      0%   { clip-path: inset(0 100% 0 0); }
+      50%  { clip-path: inset(0 100% 0 0); animation-timing-function: steps(16, end); }
+      68%  { clip-path: inset(0 0 0 0); }
+      100% { clip-path: inset(0 0 0 0); }
+    }
+    @keyframes caretB {
+      0%   { transform: translateX(0); }
+      50%  { transform: translateX(0); animation-timing-function: steps(16, end); }
+      68%  { transform: translateX(307px); }
+      100% { transform: translateX(307px); }
+    }
+
+    .cen   { transform-box: fill-box; transform-origin: center; }
+    .rays1 { animation: spin 46s linear infinite, flick 5s ease-in-out infinite; }
+    .rays2 { animation: spinr 64s linear infinite, flick 7s ease-in-out infinite .8s; }
+    .glow  { animation: breathe 3.4s ease-in-out infinite; }
+    .core  { animation: pulse 3.4s ease-in-out infinite; }
+    .ring  { fill: none; stroke-width: 2; }
+    .r1    { animation: shock 4.2s ease-out infinite; }
+    .r2    { animation: shock 4.2s ease-out infinite 1.4s; }
+    .r3    { animation: shock 4.2s ease-out infinite 2.8s; }
+    .star  { animation: twinkle 3s ease-in-out infinite; }
+
+    .typed { font-family: 'Courier New', 'DejaVu Sans Mono', monospace; font-weight: 700; font-size: 32px; fill: #ffffff; }
+    .lineA { animation: opA 8s linear infinite; }
+    .lineB { animation: opB 8s linear infinite; }
+    .txtA  { animation: typeA 8s linear infinite; }
+    .txtB  { animation: typeB 8s linear infinite; }
+    .caret { fill: #00e0ff; }
+    .ctA   { animation: caretA 8s linear infinite, blink .9s linear infinite; }
+    .ctB   { animation: caretB 8s linear infinite, blink .9s linear infinite; }
+  </style>
+
+  <g mask="url(#bottomfade)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <g fill="#ffffff">
+      <circle class="star" cx="90"  cy="48"  r="1.6" style="animation-duration:2.6s"/>
+      <circle class="star" cx="180" cy="120" r="1.1" style="animation-duration:3.4s;animation-delay:.4s"/>
+      <circle class="star" cx="250" cy="60"  r="2.0" style="animation-duration:2.9s;animation-delay:.9s" fill="#aef3ff"/>
+      <circle class="star" cx="330" cy="205" r="1.3" style="animation-duration:3.8s;animation-delay:.2s"/>
+      <circle class="star" cx="120" cy="225" r="1.0" style="animation-duration:3.1s;animation-delay:1.2s"/>
+      <circle class="star" cx="430" cy="40"  r="1.5" style="animation-duration:2.7s;animation-delay:.6s"/>
+      <circle class="star" cx="700" cy="42"  r="1.4" style="animation-duration:3.0s;animation-delay:.3s"/>
+      <circle class="star" cx="860" cy="64"  r="1.1" style="animation-duration:3.6s;animation-delay:1.3s"/>
+      <circle class="star" cx="940" cy="195" r="1.5" style="animation-duration:3.2s;animation-delay:.5s"/>
+      <circle class="star" cx="1010" cy="58" r="2.1" style="animation-duration:2.9s;animation-delay:1.1s" fill="#d9b8ff"/>
+      <circle class="star" cx="1095" cy="150" r="1.2" style="animation-duration:3.7s;animation-delay:.2s"/>
+      <circle class="star" cx="1140" cy="225" r="1.0" style="animation-duration:3.3s;animation-delay:.8s"/>
+      <circle class="star" cx="40"  cy="150" r="1.3" style="animation-duration:3.0s;animation-delay:1.4s"/>
+      <circle class="star" cx="600" cy="18"  r="1.1" style="animation-duration:3.4s;animation-delay:.6s"/>
+      <circle class="star" cx="380" cy="258" r="1.4" style="animation-duration:2.7s;animation-delay:.9s"/>
+      <circle class="star" cx="820" cy="258" r="1.2" style="animation-duration:3.5s;animation-delay:.4s"/>
+      <circle class="star" cx="1165" cy="86" r="1.6" style="animation-duration:2.8s;animation-delay:1.0s" fill="#aef3ff"/>
+    </g>
+
+    <g stroke="#9b6bff">
+      <circle class="ring r1 cen" cx="600" cy="150" r="90" stroke="#aef3ff"/>
+      <circle class="ring r2 cen" cx="600" cy="150" r="90" stroke="#9b6bff"/>
+      <circle class="ring r3 cen" cx="600" cy="150" r="90" stroke="#ff5fc0"/>
+    </g>
+
+    <g mask="url(#raymask)">
+      <g class="rays1 cen">
+        <g id="rayL" stroke="#cfeaff" stroke-width="2.4" stroke-linecap="round"><line x1="600" y1="150" x2="1080" y2="150"/></g>
+        <use href="#rayL" transform="rotate(30 600 150)"/>
+        <use href="#rayL" transform="rotate(60 600 150)"/>
+        <use href="#rayL" transform="rotate(90 600 150)"/>
+        <use href="#rayL" transform="rotate(120 600 150)"/>
+        <use href="#rayL" transform="rotate(150 600 150)"/>
+        <use href="#rayL" transform="rotate(180 600 150)"/>
+        <use href="#rayL" transform="rotate(210 600 150)"/>
+        <use href="#rayL" transform="rotate(240 600 150)"/>
+        <use href="#rayL" transform="rotate(270 600 150)"/>
+        <use href="#rayL" transform="rotate(300 600 150)"/>
+        <use href="#rayL" transform="rotate(330 600 150)"/>
+      </g>
+      <g class="rays2 cen">
+        <g id="rayS" stroke="#e3c6ff" stroke-width="1.3" stroke-linecap="round"><line x1="600" y1="150" x2="880" y2="150"/></g>
+        <use href="#rayS" transform="rotate(15 600 150)"/>
+        <use href="#rayS" transform="rotate(45 600 150)"/>
+        <use href="#rayS" transform="rotate(75 600 150)"/>
+        <use href="#rayS" transform="rotate(105 600 150)"/>
+        <use href="#rayS" transform="rotate(135 600 150)"/>
+        <use href="#rayS" transform="rotate(165 600 150)"/>
+        <use href="#rayS" transform="rotate(195 600 150)"/>
+        <use href="#rayS" transform="rotate(225 600 150)"/>
+        <use href="#rayS" transform="rotate(255 600 150)"/>
+        <use href="#rayS" transform="rotate(285 600 150)"/>
+        <use href="#rayS" transform="rotate(315 600 150)"/>
+        <use href="#rayS" transform="rotate(345 600 150)"/>
+      </g>
+    </g>
+
+    <circle class="glow cen" cx="600" cy="150" r="165" fill="url(#glow)" filter="url(#soft)"/>
+    <circle class="core cen" cx="600" cy="150" r="48" fill="url(#core)"/>
+
+    <ellipse cx="600" cy="152" rx="360" ry="62" fill="url(#plate)"/>
+
+    <!-- typewriter: line A -->
+    <g class="lineA" filter="url(#tglow)">
+      <text class="typed txtA" x="476" y="150" text-anchor="start" dominant-baseline="middle">Hello, I'm IQ</text>
+      <rect class="caret ctA" x="476" y="132" width="3" height="34"/>
+    </g>
+    <!-- typewriter: line B -->
+    <g class="lineB" filter="url(#tglow)">
+      <text class="typed txtB" x="446" y="150" text-anchor="start" dominant-baseline="middle">Nice To Meet You</text>
+      <rect class="caret ctB" x="446" y="132" width="3" height="34"/>
+    </g>
+  </g>
+</svg>
