@@ -10,44 +10,46 @@
 
 ## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%231a1a1a" width="28"/> IQ Universe
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://iq-dev-lab.github.io">
   <img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="28"/>
   <br/>
   <b>IQ&nbsp;Dev&nbsp;Lab</b>
 </a>
 <br/>
-<sub>개발 전 영역</sub>
+<sub>개발 전 영역 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
   <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=gitbook&logoColor=white" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://iq-ai-lab.github.io">
   <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="28"/>
   <br/>
   <b>IQ&nbsp;AI&nbsp;Lab</b>
 </a>
 <br/>
-<sub>AI 수학적 본질</sub>
+<sub>AI 수학적 본질 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
   <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=openai&logoColor=white" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
   <br/>
   <b>IQ&nbsp;Agent&nbsp;Lab</b>
 </a>
 <br/>
-<sub>에이전트 자동화</sub>
+<sub>에이전트 자동화 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-agent-lab.github.io">
@@ -56,35 +58,35 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-blog/">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
   <br/>
   <b>IQ&nbsp;Blog</b>
 </a>
 <br/>
-<sub>딥다이브 발행</sub>
+<sub>딥다이브 발행 허브</sub>
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-blog/">
   <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=astro&logoColor=white" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-label/">
   <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
   <br/>
   <b>IQ&nbsp;Label</b>
 </a>
 <br/>
-<sub>fusion 음악</sub>
+<sub>fusion 음악 레이블</sub>
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-label/">
   <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="280">
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="28"/>
   <br/>
@@ -116,6 +118,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
