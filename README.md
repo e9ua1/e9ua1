@@ -8,31 +8,6 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/layers.svg?color=%231a1a1a" width="28"/> Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-<br/>
-
 ## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%231a1a1a" width="28"/> IQ Universe
 
 <table>
@@ -41,10 +16,10 @@
 <a href="https://iq-dev-lab.github.io">
   <img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="28"/>
   <br/>
-  <b>IQ Dev Lab</b>
+  <b>IQ&nbsp;Dev&nbsp;Lab</b>
 </a>
 <br/>
-<sub>개발 전 영역 연구소</sub>
+<sub>개발 전 영역</sub>
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
@@ -55,10 +30,10 @@
 <a href="https://iq-ai-lab.github.io">
   <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="28"/>
   <br/>
-  <b>IQ AI Lab</b>
+  <b>IQ&nbsp;AI&nbsp;Lab</b>
 </a>
 <br/>
-<sub>AI 수학적 본질 연구소</sub>
+<sub>AI 수학적 본질</sub>
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
@@ -69,10 +44,10 @@
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
   <br/>
-  <b>IQ Agent Lab</b>
+  <b>IQ&nbsp;Agent&nbsp;Lab</b>
 </a>
 <br/>
-<sub>에이전트 자동화 연구소</sub>
+<sub>에이전트 자동화</sub>
 <br/>
 <br/>
 <a href="https://iq-agent-lab.github.io">
@@ -85,10 +60,10 @@
 <a href="https://iq-universe.github.io/iq-blog/">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
   <br/>
-  <b>IQ Blog</b>
+  <b>IQ&nbsp;Blog</b>
 </a>
 <br/>
-<sub>딥다이브 발행 허브</sub>
+<sub>딥다이브 발행</sub>
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-blog/">
@@ -99,10 +74,10 @@
 <a href="https://iq-universe.github.io/iq-label/">
   <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
   <br/>
-  <b>IQ Label</b>
+  <b>IQ&nbsp;Label</b>
 </a>
 <br/>
-<sub>fusion 음악 레이블</sub>
+<sub>fusion 음악</sub>
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-label/">
@@ -383,12 +358,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=e9ua1&show_icons=true&count_private=true&hide_border=true&bg_color=0a0420&title_color=00d9ff&text_color=cfd6ff&icon_color=7b2ff7" alt="IQ's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e9ua1&layout=compact&hide_border=true&bg_color=0a0420&title_color=00d9ff&text_color=cfd6ff" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=e9ua1&hide_border=true&background=0a0420&stroke=7b2ff7&ring=00d9ff&fire=ff5fc0&currStreakLabel=00d9ff&sideLabels=cfd6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8fb0" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=e9ua1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -398,6 +368,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=e9ua1&color=7b2ff7&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,35:7b2ff7,70:2b1055,100:0b1026&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=72" width="100%"/>
+<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/cosmic-footer.svg" width="100%" alt="Thanks for visiting!"/>
 
 </div>
