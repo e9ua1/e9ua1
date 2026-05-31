@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTUgMTBINGEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmgxNmEyIDIgMCAwIDEgMiAydjRhMiAyIDAgMCAxLTIgMmgtMSIvPjxwYXRoIGQ9Ik0xMiA3djYiLz48cGF0aCBkPSJNOS41IDkuNSAxMiAxMiIvPjxwYXRoIGQ9Ik0xNC41IDkuNSAxMiAxMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTciIHI9IjMiLz48cGF0aCBkPSJNMTIgMTJ2MiIvPjxwYXRoIGQ9Ik0xMiAyMHYuMDEiLz48cGF0aCBkPSJtMTUuNiAxNS41LS40LjciLz48cGF0aCBkPSJtOC44IDE4LjgtLjQuNyIvPjxwYXRoIGQ9Im04LjQgMTUuNS40LjciLz48cGF0aCBkPSJtMTUuMiAxOC44LjQuNyIvPjwvc3ZnPgo=" />
 </a>
 </td>
 <td align="center" width="280">
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDVhMyAzIDAgMSAwLTUuOTk3LjEyNSA0IDQgMCAwIDAtMi41MjYgNS43NyA0IDQgMCAwIDAgLjU1NiA2LjU4OEE0IDQgMCAxIDAgMTIgMThaIi8+PHBhdGggZD0iTTkgMTNhNC41IDQuNSAwIDAgMCAzLTQiLz48cGF0aCBkPSJNNi4wMDMgNS4xMjVBMyAzIDAgMCAwIDYuNDAxIDYuNSIvPjxwYXRoIGQ9Ik0zLjQ3NyAxMC44OTZhNCA0IDAgMCAxIC41ODUtLjM5NiIvPjxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAgMS0xLjk2Ny0uNTE2Ii8+PHBhdGggZD0iTTEyIDEzaDQiLz48cGF0aCBkPSJNMTIgMThoNmEyIDIgMCAwIDEgMiAydjEiLz48cGF0aCBkPSJNMTIgOGg4Ii8+PHBhdGggZD0iTTE2IDhWNWEyIDIgMCAwIDEgMi0yIi8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxMyIgcj0iLjUiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjMiIHI9Ii41Ii8+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMSIgcj0iLjUiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjgiIHI9Ii41Ii8+PC9zdmc+" />
 </a>
 </td>
 <td align="center" width="280">
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 <a href="https://iq-agent-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4Ii8+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiB4PSI0IiB5PSI4IiByeD0iMiIvPjxwYXRoIGQ9Ik0yIDE0aDIiLz48cGF0aCBkPSJNMjAgMTRoMiIvPjxwYXRoIGQ9Ik0xNSAxM3YyIi8+PHBhdGggZD0iTTkgMTN2MiIvPjwvc3ZnPg==" />
 </a>
 </td>
 </tr>
@@ -69,7 +69,7 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiLz48cGF0aCBkPSJNOCA3aDYiLz48cGF0aCBkPSJNOCAxMWg4Ii8+PC9zdmc+Cg==&logoColor=white" />
 </a>
 </td>
 <td align="center" width="280">
@@ -83,7 +83,7 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=bandcamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgMTJjMC0xLjcuNy0zLjIgMS44LTQuMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTE4IDEyYzAgMS43LS43IDMuMi0xLjggNC4yIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xNi4yIDcuOGMuNC40LjYgMSAuNiAxLjciLz48cGF0aCBkPSJNNy44IDE2LjJjLS40LS40LS42LTEtLjYtMS43Ii8+PC9zdmc+Cg==&logoColor=white" />
 </a>
 </td>
 <td align="center" width="280">
@@ -97,7 +97,7 @@
 <br/>
 <br/>
 <a href="https://github.com/Woowa-8th-BE-IQ">
-  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIvPjxjaXJjbGUgY3g9IjUiIGN5PSIxOSIgcj0iMiIvPjxwYXRoIGQ9Ik0xMC40IDIxLjlhMTAgMTAgMCAwIDAgOS45NDEtMTUuNDE2Ii8+PHBhdGggZD0iTTEzLjUgMi4xYTEwIDEwIDAgMCAwLTkuODQxIDE1LjQxNiIvPjwvc3ZnPgo=&logoColor=white" />
 </a>
 </td>
 </tr>
