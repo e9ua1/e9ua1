@@ -43,6 +43,22 @@
 </a>
 </td>
 <td align="center" width="280">
+<a href="https://iq-phronesis-lab.github.io">
+  <img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="28"/>
+  <br/>
+  <b>IQ&nbsp;Phronesis&nbsp;Lab</b>
+</a>
+<br/>
+<sub>실천지 연구소</sub>
+<br/>
+<br/>
+<a href="https://iq-phronesis-lab.github.io">
+  <img src="https://img.shields.io/badge/Visit-f59e0b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cG9seWdvbiBwb2ludHM9IjE2LjI0IDcuNzYgMTQuMTIgMTQuMTIgNy43NiAxNi4yNCA5Ljg4IDkuODggMTYuMjQgNy43NiIvPjwvc3ZnPg==" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="280">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
   <br/>
@@ -56,8 +72,6 @@
   <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4Ii8+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiB4PSI0IiB5PSI4IiByeD0iMiIvPjxwYXRoIGQ9Ik0yIDE0aDIiLz48cGF0aCBkPSJNMjAgMTRoMiIvPjxwYXRoIGQ9Ik0xNSAxM3YyIi8+PHBhdGggZD0iTTkgMTN2MiIvPjwvc3ZnPg==" />
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-blog/">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
@@ -86,6 +100,8 @@
   <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgMTJjMC0xLjcuNy0zLjIgMS44LTQuMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTE4IDEyYzAgMS43LS43IDMuMi0xLjggNC4yIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xNi4yIDcuOGMuNC40LjYgMSAuNiAxLjciLz48cGF0aCBkPSJNNy44IDE2LjJjLS40LS40LS42LTEtLjYtMS43Ii8+PC9zdmc+Cg==&logoColor=white" />
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="280">
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="28"/>
@@ -100,9 +116,7 @@
   <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIvPjxjaXJjbGUgY3g9IjUiIGN5PSIxOSIgcj0iMiIvPjxwYXRoIGQ9Ik0xMC40IDIxLjlhMTAgMTAgMCAwIDAgOS45NDEtMTUuNDE2Ii8+PHBhdGggZD0iTTEzLjUgMi4xYTEwIDEwIDAgMCAwLTkuODQxIDE1LjQxNiIvPjwvc3ZnPgo=&logoColor=white" />
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" colspan="3">
+<td align="center" colspan="2">
 <a href="https://www.youtube.com/@SeeWhy-l3n">
   <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
   <br/>
@@ -158,6 +172,24 @@
 
 [![IQ AI Lab](https://img.shields.io/badge/Visit_Site-a78bfa?style=for-the-badge&logo=openai&logoColor=white)](https://iq-ai-lab.github.io)
 [![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-ai-lab)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="16" align="center"/> &nbsp;<b>IQ Phronesis Lab</b> &nbsp;—&nbsp; 실천적 지혜를 증류하는 연구소</summary>
+
+<br/>
+
+> ***"Knowledge that doesn't change a decision is trivia."***
+
+돈·사람·게임의 규칙을 **메커니즘까지 해부하고, 판단 규칙으로 증류**하는 실천지 연구소.
+
+**영역** &nbsp;·&nbsp; `Thinking` `Money` `People` `Rules` `World` `Synthesis`
+
+**흐름** &nbsp;·&nbsp; Explore → Mechanism → Stress-test → Distill → Document
+
+[![IQ Phronesis Lab](https://img.shields.io/badge/Visit_Site-f59e0b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cG9seWdvbiBwb2ludHM9IjE2LjI0IDcuNzYgMTQuMTIgMTQuMTIgNy43NiAxNi4yNCA5Ljg4IDkuODggMTYuMjQgNy43NiIvPjwvc3ZnPg==)](https://iq-phronesis-lab.github.io)
+[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-phronesis-lab)
 
 </details>
 
