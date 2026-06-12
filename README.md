@@ -49,7 +49,7 @@
   <b>IQ&nbsp;Phronesis&nbsp;Lab</b>
 </a>
 <br/>
-<sub>실천지 연구소</sub>
+<sub>실천적 지혜 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-phronesis-lab.github.io">
@@ -182,7 +182,7 @@
 
 > ***"Knowledge that doesn't change a decision is trivia."***
 
-돈·사람·게임의 규칙을 **메커니즘까지 해부하고, 판단 규칙으로 증류**하는 실천지 연구소.
+돈·사람·게임의 규칙을 **메커니즘까지 해부하고, 판단 규칙으로 증류**하는 실천적 지혜 연구소.
 
 **영역** &nbsp;·&nbsp; `Thinking` `Money` `People` `Rules` `World` `Synthesis`
 
