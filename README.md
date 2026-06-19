@@ -73,6 +73,20 @@
 </a>
 </td>
 <td align="center" width="280">
+<a href="https://iq-psyche-lab.github.io">
+  <img src="https://api.iconify.design/lucide/brain.svg?color=%23ec4899" width="28"/>
+  <br/>
+  <b>IQ&nbsp;Psyche&nbsp;Lab</b>
+</a>
+<br/>
+<sub>마음·의식 연구소</sub>
+<br/>
+<br/>
+<a href="https://iq-psyche-lab.github.io">
+  <img src="https://img.shields.io/badge/Visit-ec4899?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDVhMyAzIDAgMSAwLTUuOTk3LjEyNSA0IDQgMCAwIDAtMi41MjYgNS43NyA0IDQgMCAwIDAgLjU1NiA2LjU4OEE0IDQgMCAxIDAgMTIgMThaIiAvPjxwYXRoIGQ9Ik05IDEzYTQuNSA0LjUgMCAwIDAgMy00IiAvPjxwYXRoIGQ9Ik02LjAwMyA1LjEyNUEzIDMgMCAwIDAgNi40MDEgNi41IiAvPjxwYXRoIGQ9Ik0zLjQ3NyAxMC44OTZhNCA0IDAgMCAxIC41ODUtLjM5NiIgLz48cGF0aCBkPSJNNiAxOGE0IDQgMCAwIDEtMS45NjctLjUxNiIgLz48L3N2Zz4=" />
+</a>
+</td>
+<td align="center" width="280">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
   <br/>
@@ -86,6 +100,8 @@
   <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4IiAvPgogIDxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxMiIgeD0iNCIgeT0iOCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTIgMTRoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTRoMiIgLz4KICA8cGF0aCBkPSJNMTUgMTN2MiIgLz4KICA8cGF0aCBkPSJNOSAxM3YyIiAvPjwvc3ZnPg==" />
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-blog/">
   <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
@@ -100,8 +116,6 @@
   <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+CiAgPHBhdGggZD0iTTggMTFoOCIgLz4KICA8cGF0aCBkPSJNOCA3aDYiIC8+PC9zdmc+&logoColor=white" />
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-label/">
   <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
@@ -130,7 +144,9 @@
   <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjM0MSA2LjQ4NEExMCAxMCAwIDAgMSAxMC4yNjYgMjEuODUiIC8+CiAgPHBhdGggZD0iTTMuNjU5IDE3LjUxNkExMCAxMCAwIDAgMSAxMy43NCAyLjE1MiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiIC8+PC9zdmc+&logoColor=white" />
 </a>
 </td>
-<td align="center" width="280">
+</tr>
+<tr>
+<td align="center" width="280" colspan="3">
 <a href="https://www.youtube.com/@SeeWhy-l3n">
   <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
   <br/>
@@ -222,6 +238,24 @@
 
 [![IQ Physis Lab](https://img.shields.io/badge/Visit_Site-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMSIgLz4KICA8cGF0aCBkPSJNMjAuMiAyMC4yYzIuMDQtMi4wMy4wMi03LjM2LTQuNS0xMS45LTQuNTQtNC41Mi05Ljg3LTYuNTQtMTEuOS00LjUtMi4wNCAyLjAzLS4wMiA3LjM2IDQuNSAxMS45IDQuNTQgNC41MiA5Ljg3IDYuNTQgMTEuOSA0LjVaIiAvPgogIDxwYXRoIGQ9Ik0xNS43IDE1LjdjNC41Mi00LjU0IDYuNTQtOS44NyA0LjUtMTEuOS0yLjAzLTIuMDQtNy4zNi0uMDItMTEuOSA0LjUtNC41MiA0LjU0LTYuNTQgOS44Ny00LjUgMTEuOSAyLjAzIDIuMDQgNy4zNi4wMiAxMS45LTQuNVoiIC8+PC9zdmc+)](https://iq-physis-lab.github.io)
 [![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-physis-lab)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain.svg?color=%23ec4899" width="16" align="center"/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음과 의식을 뉴런부터 자아까지 쌓아 올리는 연구소</summary>
+
+<br/>
+
+> ***"Explain it, don't explain it away."***
+
+뉴런이라는 가장 단단한 바닥에서 *경험하는 나 자신*까지, **마음을 한 층씩 쌓아 올려 설명**하는 연구소. 설명이 끝내 닿지 못하는 곳을 지우지 않고 정직하게 표시합니다.
+
+**영역** &nbsp;·&nbsp; `Language of Mind` `Neural Substrate` `Cognition` `Computational Mind` `Consciousness` `The Self` `Synthesis`
+
+**흐름** &nbsp;·&nbsp; Explore → Mechanism → Test → Connect → Document
+
+[![IQ Psyche Lab](https://img.shields.io/badge/Visit_Site-ec4899?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-psyche-lab.github.io)
+[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-psyche-lab)
 
 </details>
 
