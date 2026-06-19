@@ -25,7 +25,7 @@
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTUgMTBINGEyIDIgMCAwIDEtMi0yVjRhMiAyIDAgMCAxIDItMmgxNmEyIDIgMCAwIDEgMiAydjRhMiAyIDAgMCAxLTIgMmgtMSIvPjxwYXRoIGQ9Ik0xMiA3djYiLz48cGF0aCBkPSJNOS41IDkuNSAxMiAxMiIvPjxwYXRoIGQ9Ik0xNC41IDkuNSAxMiAxMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTciIHI9IjMiLz48cGF0aCBkPSJNMTIgMTJ2MiIvPjxwYXRoIGQ9Ik0xMiAyMHYuMDEiLz48cGF0aCBkPSJtMTUuNiAxNS41LS40LjciLz48cGF0aCBkPSJtOC44IDE4LjgtLjQuNyIvPjxwYXRoIGQ9Im04LjQgMTUuNS40LjciLz48cGF0aCBkPSJtMTUuMiAxOC44LjQuNyIvPjwvc3ZnPgo=" />
+  <img src="https://img.shields.io/badge/Visit-ff4d4d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0ibTEwLjg1MiAxNC43NzItLjM4My45MjMiIC8+CiAgPHBhdGggZD0iTTEzLjE0OCAxNC43NzJhMyAzIDAgMSAwLTIuMjk2LTUuNTQ0bC0uMzgzLS45MjMiIC8+CiAgPHBhdGggZD0ibTEzLjE0OCA5LjIyOC4zODMtLjkyMyIgLz4KICA8cGF0aCBkPSJtMTMuNTMgMTUuNjk2LS4zODItLjkyNGEzIDMgMCAxIDEtMi4yOTYtNS41NDQiIC8+CiAgPHBhdGggZD0ibTE0Ljc3MiAxMC44NTIuOTIzLS4zODMiIC8+CiAgPHBhdGggZD0ibTE0Ljc3MiAxMy4xNDguOTIzLjM4MyIgLz4KICA8cGF0aCBkPSJNNC41IDEwSDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoMTZhMiAyIDAgMCAxIDIgMnY0YTIgMiAwIDAgMS0yIDJoLS41IiAvPgogIDxwYXRoIGQ9Ik00LjUgMTRINGEyIDIgMCAwIDAtMiAydjRhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0ydi00YTIgMiAwIDAgMC0yLTJoLS41IiAvPgogIDxwYXRoIGQ9Ik02IDE4aC4wMSIgLz4KICA8cGF0aCBkPSJNNiA2aC4wMSIgLz4KICA8cGF0aCBkPSJtOS4yMjggMTAuODUyLS45MjMtLjM4MyIgLz4KICA8cGF0aCBkPSJtOS4yMjggMTMuMTQ4LS45MjMuMzgzIiAvPjwvc3ZnPg==" />
 </a>
 </td>
 <td align="center" width="280">
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDVhMyAzIDAgMSAwLTUuOTk3LjEyNSA0IDQgMCAwIDAtMi41MjYgNS43NyA0IDQgMCAwIDAgLjU1NiA2LjU4OEE0IDQgMCAxIDAgMTIgMThaIi8+PHBhdGggZD0iTTkgMTNhNC41IDQuNSAwIDAgMCAzLTQiLz48cGF0aCBkPSJNNi4wMDMgNS4xMjVBMyAzIDAgMCAwIDYuNDAxIDYuNSIvPjxwYXRoIGQ9Ik0zLjQ3NyAxMC44OTZhNCA0IDAgMCAxIC41ODUtLjM5NiIvPjxwYXRoIGQ9Ik02IDE4YTQgNCAwIDAgMS0xLjk2Ny0uNTE2Ii8+PHBhdGggZD0iTTEyIDEzaDQiLz48cGF0aCBkPSJNMTIgMThoNmEyIDIgMCAwIDEgMiAydjEiLz48cGF0aCBkPSJNMTIgOGg4Ii8+PHBhdGggZD0iTTE2IDhWNWEyIDIgMCAwIDEgMi0yIi8+PGNpcmNsZSBjeD0iMTYiIGN5PSIxMyIgcj0iLjUiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjMiIHI9Ii41Ii8+PGNpcmNsZSBjeD0iMjAiIGN5PSIyMSIgcj0iLjUiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjgiIHI9Ii41Ii8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Visit-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDVhMyAzIDAgMSAwLTUuOTk3LjEyNSA0IDQgMCAwIDAtMi41MjYgNS43NyA0IDQgMCAwIDAgLjU1NiA2LjU4OEE0IDQgMCAxIDAgMTIgMThaIiAvPgogIDxwYXRoIGQ9Ik05IDEzYTQuNSA0LjUgMCAwIDAgMy00IiAvPgogIDxwYXRoIGQ9Ik02LjAwMyA1LjEyNUEzIDMgMCAwIDAgNi40MDEgNi41IiAvPgogIDxwYXRoIGQ9Ik0zLjQ3NyAxMC44OTZhNCA0IDAgMCAxIC41ODUtLjM5NiIgLz4KICA8cGF0aCBkPSJNNiAxOGE0IDQgMCAwIDEtMS45NjctLjUxNiIgLz4KICA8cGF0aCBkPSJNMTIgMTNoNCIgLz4KICA8cGF0aCBkPSJNMTIgMThoNmEyIDIgMCAwIDEgMiAydjEiIC8+CiAgPHBhdGggZD0iTTEyIDhoOCIgLz4KICA8cGF0aCBkPSJNMTYgOFY1YTIgMiAwIDAgMSAyLTIiIC8+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxMyIgcj0iLjUiIC8+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIzIiByPSIuNSIgLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIxIiByPSIuNSIgLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjgiIHI9Ii41IiAvPjwvc3ZnPg==" />
 </a>
 </td>
 <td align="center" width="280">
@@ -53,11 +53,25 @@
 <br/>
 <br/>
 <a href="https://iq-phronesis-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-f59e0b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cG9seWdvbiBwb2ludHM9IjE2LjI0IDcuNzYgMTQuMTIgMTQuMTIgNy43NiAxNi4yNCA5Ljg4IDkuODggMTYuMjQgNy43NiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/Visit-f59e0b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgPHBhdGggZD0ibTE2LjI0IDcuNzYtMS44MDQgNS40MTFhMiAyIDAgMCAxLTEuMjY1IDEuMjY1TDcuNzYgMTYuMjRsMS44MDQtNS40MTFhMiAyIDAgMCAxIDEuMjY1LTEuMjY1eiIgLz48L3N2Zz4=" />
 </a>
 </td>
 </tr>
 <tr>
+<td align="center" width="280">
+<a href="https://iq-physis-lab.github.io">
+  <img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="28"/>
+  <br/>
+  <b>IQ&nbsp;Physis&nbsp;Lab</b>
+</a>
+<br/>
+<sub>물리 제1원리 연구소</sub>
+<br/>
+<br/>
+<a href="https://iq-physis-lab.github.io">
+  <img src="https://img.shields.io/badge/Visit-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMSIgLz4KICA8cGF0aCBkPSJNMjAuMiAyMC4yYzIuMDQtMi4wMy4wMi03LjM2LTQuNS0xMS45LTQuNTQtNC41Mi05Ljg3LTYuNTQtMTEuOS00LjUtMi4wNCAyLjAzLS4wMiA3LjM2IDQuNSAxMS45IDQuNTQgNC41MiA5Ljg3IDYuNTQgMTEuOSA0LjVaIiAvPgogIDxwYXRoIGQ9Ik0xNS43IDE1LjdjNC41Mi00LjU0IDYuNTQtOS44NyA0LjUtMTEuOS0yLjAzLTIuMDQtNy4zNi0uMDItMTEuOSA0LjUtNC41MiA0LjU0LTYuNTQgOS44Ny00LjUgMTEuOSAyLjAzIDIuMDQgNy4zNi4wMiAxMS45LTQuNVoiIC8+PC9zdmc+" />
+</a>
+</td>
 <td align="center" width="280">
 <a href="https://iq-agent-lab.github.io">
   <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
@@ -69,7 +83,7 @@
 <br/>
 <br/>
 <a href="https://iq-agent-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4Ii8+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiB4PSI0IiB5PSI4IiByeD0iMiIvPjxwYXRoIGQ9Ik0yIDE0aDIiLz48cGF0aCBkPSJNMjAgMTRoMiIvPjxwYXRoIGQ9Ik0xNSAxM3YyIi8+PHBhdGggZD0iTTkgMTN2MiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4IiAvPgogIDxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxMiIgeD0iNCIgeT0iOCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTIgMTRoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTRoMiIgLz4KICA8cGF0aCBkPSJNMTUgMTN2MiIgLz4KICA8cGF0aCBkPSJNOSAxM3YyIiAvPjwvc3ZnPg==" />
 </a>
 </td>
 <td align="center" width="280">
@@ -83,9 +97,11 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiLz48cGF0aCBkPSJNOCA3aDYiLz48cGF0aCBkPSJNOCAxMWg4Ii8+PC9zdmc+Cg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+CiAgPHBhdGggZD0iTTggMTFoOCIgLz4KICA8cGF0aCBkPSJNOCA3aDYiIC8+PC9zdmc+&logoColor=white" />
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-label/">
   <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
@@ -97,11 +113,9 @@
 <br/>
 <br/>
 <a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgMTJjMC0xLjcuNy0zLjIgMS44LTQuMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTE4IDEyYzAgMS43LS43IDMuMi0xLjggNC4yIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xNi4yIDcuOGMuNC40LjYgMSAuNiAxLjciLz48cGF0aCBkPSJNNy44IDE2LjJjLS40LS40LS42LTEtLjYtMS43Ii8+PC9zdmc+Cg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgPHBhdGggZD0iTTYgMTJjMC0xLjcuNy0zLjIgMS44LTQuMiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIiAvPgogIDxwYXRoIGQ9Ik0xOCAxMmMwIDEuNy0uNyAzLjItMS44IDQuMiIgLz48L3N2Zz4=&logoColor=white" />
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="280">
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="28"/>
@@ -113,10 +127,10 @@
 <br/>
 <br/>
 <a href="https://github.com/Woowa-8th-BE-IQ">
-  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIvPjxjaXJjbGUgY3g9IjUiIGN5PSIxOSIgcj0iMiIvPjxwYXRoIGQ9Ik0xMC40IDIxLjlhMTAgMTAgMCAwIDAgOS45NDEtMTUuNDE2Ii8+PHBhdGggZD0iTTEzLjUgMi4xYTEwIDEwIDAgMCAwLTkuODQxIDE1LjQxNiIvPjwvc3ZnPgo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjM0MSA2LjQ4NEExMCAxMCAwIDAgMSAxMC4yNjYgMjEuODUiIC8+CiAgPHBhdGggZD0iTTMuNjU5IDE3LjUxNkExMCAxMCAwIDAgMSAxMy43NCAyLjE1MiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiIC8+PC9zdmc+&logoColor=white" />
 </a>
 </td>
-<td align="center" colspan="2">
+<td align="center" width="280">
 <a href="https://www.youtube.com/@SeeWhy-l3n">
   <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
   <br/>
@@ -188,8 +202,26 @@
 
 **흐름** &nbsp;·&nbsp; Explore → Mechanism → Stress-test → Distill → Document
 
-[![IQ Phronesis Lab](https://img.shields.io/badge/Visit_Site-f59e0b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cG9seWdvbiBwb2ludHM9IjE2LjI0IDcuNzYgMTQuMTIgMTQuMTIgNy43NiAxNi4yNCA5Ljg4IDkuODggMTYuMjQgNy43NiIvPjwvc3ZnPg==)](https://iq-phronesis-lab.github.io)
+[![IQ Phronesis Lab](https://img.shields.io/badge/Visit_Site-f59e0b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgPHBhdGggZD0ibTE2LjI0IDcuNzYtMS44MDQgNS40MTFhMiAyIDAgMCAxLTEuMjY1IDEuMjY1TDcuNzYgMTYuMjRsMS44MDQtNS40MTFhMiAyIDAgMCAxIDEuMjY1LTEuMjY1eiIgLz48L3N2Zz4=)](https://iq-phronesis-lab.github.io)
 [![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-phronesis-lab)
+
+</details>
+
+<details>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="16" align="center"/> &nbsp;<b>IQ Physis Lab</b> &nbsp;—&nbsp; 물리학을 제1원리에서 유도하는 연구소</summary>
+
+<br/>
+
+> ***"Derive, don't accept — from the fewest principles, the widest world."***
+
+공식을 외우는 대신, **가장 적은 원리에서 가장 넓은 세계를 유도**하는 물리 본질 연구소.
+
+**영역** &nbsp;·&nbsp; `Language` `Classical` `Statistical` `Quantum` `Relativity` `Frontier` `Synthesis`
+
+**흐름** &nbsp;·&nbsp; 제1원리 → 유도 → 반증 → 경계 → 창발
+
+[![IQ Physis Lab](https://img.shields.io/badge/Visit_Site-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMSIgLz4KICA8cGF0aCBkPSJNMjAuMiAyMC4yYzIuMDQtMi4wMy4wMi03LjM2LTQuNS0xMS45LTQuNTQtNC41Mi05Ljg3LTYuNTQtMTEuOS00LjUtMi4wNCAyLjAzLS4wMiA3LjM2IDQuNSAxMS45IDQuNTQgNC41MiA5Ljg3IDYuNTQgMTEuOSA0LjVaIiAvPgogIDxwYXRoIGQ9Ik0xNS43IDE1LjdjNC41Mi00LjU0IDYuNTQtOS44NyA0LjUtMTEuOS0yLjAzLTIuMDQtNy4zNi0uMDItMTEuOSA0LjUtNC41MiA0LjU0LTYuNTQgOS44Ny00LjUgMTEuOSAyLjAzIDIuMDQgNy4zNi4wMiAxMS45LTQuNVoiIC8+PC9zdmc+)](https://iq-physis-lab.github.io)
+[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-physis-lab)
 
 </details>
 
