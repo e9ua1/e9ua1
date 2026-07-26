@@ -84,7 +84,7 @@
   <b>Spiral&nbsp;Galaxy</b>
 </a>
 <br/>
-<sub>5개 랩을 잇는 나선형 학습 은하</sub>
+<sub>나선형 학습 은하</sub>
 <br/>
 <br/>
 <a href="https://iq-spiral-galaxy.github.io/">
