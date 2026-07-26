@@ -12,6 +12,11 @@
 
 <div align="center">
 
+<sub>✦ &nbsp; FIVE LABS · ONE GALAXY OF QUESTIONS &nbsp; ✦</sub>
+
+<br/>
+<br/>
+
 <table align="center">
 <tr>
 <td align="center" width="280">
@@ -73,6 +78,20 @@
 </a>
 </td>
 <td align="center" width="280">
+<a href="https://iq-spiral-galaxy.github.io/">
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — five IQ Labs orbiting one learning universe"/>
+  <br/>
+  <b>Spiral&nbsp;Galaxy</b>
+</a>
+<br/>
+<sub>5개 랩을 잇는 나선형 학습 은하</sub>
+<br/>
+<br/>
+<a href="https://iq-spiral-galaxy.github.io/">
+  <img src="https://img.shields.io/badge/Enter_Galaxy-a855f7?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="center" width="280">
 <a href="https://iq-psyche-lab.github.io">
   <img src="https://api.iconify.design/lucide/brain.svg?color=%23ec4899" width="28"/>
   <br/>
@@ -83,24 +102,20 @@
 <br/>
 <br/>
 <a href="https://iq-psyche-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-ec4899?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDVhMyAzIDAgMSAwLTUuOTk3LjEyNSA0IDQgMCAwIDAtMi41MjYgNS43NyA0IDQgMCAwIDAgLjU1NiA2LjU4OEE0IDQgMCAxIDAgMTIgMThaIiAvPjxwYXRoIGQ9Ik05IDEzYTQuNSA0LjUgMCAwIDAgMy00IiAvPjxwYXRoIGQ9Ik02LjAwMyA1LjEyNUEzIDMgMCAwIDAgNi40MDEgNi41IiAvPjxwYXRoIGQ9Ik0zLjQ3NyAxMC44OTZhNCA0IDAgMCAxIC41ODUtLjM5NiIgLz48cGF0aCBkPSJNNiAxOGE0IDQgMCAwIDEtMS45NjctLjUxNiIgLz48L3N2Zz4=" />
-</a>
-</td>
-<td align="center" width="280">
-<a href="https://iq-agent-lab.github.io">
-  <img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="28"/>
-  <br/>
-  <b>IQ&nbsp;Agent&nbsp;Lab</b>
-</a>
-<br/>
-<sub>에이전트 자동화 연구소</sub>
-<br/>
-<br/>
-<a href="https://iq-agent-lab.github.io">
-  <img src="https://img.shields.io/badge/Visit-cc785c?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDhWNEg4IiAvPgogIDxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxMiIgeD0iNCIgeT0iOCIgcng9IjIiIC8+CiAgPHBhdGggZD0iTTIgMTRoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTRoMiIgLz4KICA8cGF0aCBkPSJNMTUgMTN2MiIgLz4KICA8cGF0aCBkPSJNOSAxM3YyIiAvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/Visit-ec4899?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 </tr>
+</table>
+
+<br/>
+
+<sub>✦ &nbsp; PROJECTS IN ORBIT &nbsp; ✦</sub>
+
+<br/>
+<br/>
+
+<table align="center">
 <tr>
 <td align="center" width="280">
 <a href="https://iq-universe.github.io/iq-blog/">
@@ -142,22 +157,6 @@
 <br/>
 <a href="https://github.com/Woowa-8th-BE-IQ">
   <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjM0MSA2LjQ4NEExMCAxMCAwIDAgMSAxMC4yNjYgMjEuODUiIC8+CiAgPHBhdGggZD0iTTMuNjU5IDE3LjUxNkExMCAxMCAwIDAgMSAxMy43NCAyLjE1MiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiIC8+PC9zdmc+&logoColor=white" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="280" colspan="3">
-<a href="https://www.youtube.com/@SeeWhy-l3n">
-  <img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="28"/>
-  <br/>
-  <b>See Why</b>
-</a>
-<br/>
-<sub>수학·AI 시각화 채널</sub>
-<br/>
-<br/>
-<a href="https://www.youtube.com/@SeeWhy-l3n">
-  <img src="https://img.shields.io/badge/Visit-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -260,20 +259,20 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/bot.svg?color=%23cc785c" width="16" align="center"/> &nbsp;<b>IQ Agent Lab</b> &nbsp;—&nbsp; 에이전트 시스템·자동화 인프라 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%23a855f7" width="16" align="center"/> &nbsp;<b>Spiral Galaxy</b> &nbsp;—&nbsp; 다섯 연구소를 나선형 학습으로 연결하는 허브</summary>
 
 <br/>
 
-> ***"인간이 방향을 정하고, 에이전트가 양산하고, 큐레이션이 품질을 보증한다."***
+> ***"Don't just read it — spiral into it."***
 
-에이전트 시스템으로 **창작 영역을 자동화**하는 1인 연구소.
+Dev · AI · Phronesis · Physis · Psyche의 지식을 **하나의 나선형 학습 경험**으로 연결하는 은하.
 
-**도구** &nbsp;·&nbsp; `iq-blogger` `iq-label` `iq-writer` `iq-painter` `iq-studio` `iq-curator`
+**궤도** &nbsp;·&nbsp; `Dev` `AI` `Phronesis` `Physis` `Psyche`
 
-**현황** &nbsp;·&nbsp; 첫 도구 **iq-blogger** → [iq-blog](https://iq-universe.github.io/iq-blog/) 자동 생산 중
+**역할** &nbsp;·&nbsp; 여섯 번째 랩이 아닌, 다섯 랩을 잇는 학습 허브
 
-[![IQ Agent Lab](https://img.shields.io/badge/Visit_Site-cc785c?style=for-the-badge&logo=anthropic&logoColor=white)](https://iq-agent-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-agent-lab)
+[![Spiral Galaxy](https://img.shields.io/badge/Enter_Galaxy-a855f7?style=for-the-badge&logo=githubpages&logoColor=white)](https://iq-spiral-galaxy.github.io/)
+[![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io)
 
 </details>
 
@@ -286,7 +285,7 @@
 
 표면적인 사용법이 아닌, **본질을 증명하는 기록**.
 
-**역할** &nbsp;·&nbsp; **IQ Dev Lab** · **IQ AI Lab** · **IQ Agent Lab**의 탐구를 정제
+**역할** &nbsp;·&nbsp; **다섯 IQ Lab**의 탐구를 정제
 
 **발행** &nbsp;·&nbsp; 정리(Theorem) · 증명(Proof)으로 정제해 발행하는 허브
 
@@ -323,21 +322,6 @@
 우아한테크코스 8기 백엔드 크루 — 끊임없는 **'질문(Question)'으로 객체 지향과 자바의 본질**을 탐구하는 기록소.
 
 [![Woowa 8th BE IQ](https://img.shields.io/badge/Visit_Archive-00bfa5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Woowa-8th-BE-IQ)
-
-</details>
-
-<details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/youtube.svg?color=%23FF0000" width="16" align="center"/> &nbsp;<b>See Why</b> &nbsp;—&nbsp; 수학·AI 시각화 유튜브 채널</summary>
-
-<br/>
-
-> ***"Complex concepts visualized — so the answer feels inevitable, not memorized."***
-
-수학·AI·알고리즘의 핵심 **직관을 manim으로 시각화**하는 채널.
-
-**목표** &nbsp;·&nbsp; 보고 나면 외운 게 아니라 당연하게 느껴지도록
-
-[![See Why](https://img.shields.io/badge/Visit_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SeeWhy-l3n)
 
 </details>
 
