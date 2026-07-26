@@ -173,16 +173,38 @@
 
 <br/>
 
-> ***"Beyond the docs — into the essence of building software."***
-
-공식 문서를 넘어 **소프트웨어 개발 전반의 본질**을 끝까지 파고드는 연구소.
-
-**영역** &nbsp;·&nbsp; `Backend` `Frontend` `iOS` `Android` `Architecture` `Infrastructure` `Database`
-
-**흐름** &nbsp;·&nbsp; 원리 → 트레이드오프 → 설계 → 구현 → 검증
-
-[![IQ Dev Lab](https://img.shields.io/badge/Visit_Site-ff4d4d?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-dev-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-dev-lab)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Beyond the docs — into the essence of building software.”</strong>
+<br/><br/>
+공식 문서를 넘어 <strong>소프트웨어 개발 전반의 본질</strong>을 끝까지 파고드는 연구소.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<td>
+<code>Backend</code>
+<code>Frontend</code>
+<code>iOS</code>
+<code>Android</code>
+<code>Architecture</code>
+<code>Infrastructure</code>
+<code>Database</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
+<td>원리 → 트레이드오프 → 설계 → 구현 → 검증</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Website-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Dev Lab website"/></a>
+<a href="https://github.com/iq-dev-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Dev Lab GitHub organization"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -191,16 +213,39 @@
 
 <br/>
 
-> ***"Prove, don't memorize — the math behind AI."***
-
-수학적 증명으로 **AI 알고리즘의 본질**을 파고드는 연구소.
-
-**영역** &nbsp;·&nbsp; `RL` `DL` `CV` `NLP` `LLM` `Generative` `Audio` `Math`
-
-**흐름** &nbsp;·&nbsp; 가정 → 보조정리 → 증명 → 구현 → 통찰
-
-[![IQ AI Lab](https://img.shields.io/badge/Visit_Site-a78bfa?style=for-the-badge&logo=openai&logoColor=white)](https://iq-ai-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-ai-lab)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Prove, don't memorize — the math behind AI.”</strong>
+<br/><br/>
+수학적 증명으로 <strong>AI 알고리즘의 본질</strong>을 파고드는 연구소.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<td>
+<code>RL</code>
+<code>DL</code>
+<code>CV</code>
+<code>NLP</code>
+<code>LLM</code>
+<code>Generative</code>
+<code>Audio</code>
+<code>Math</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
+<td>가정 → 보조정리 → 증명 → 구현 → 통찰</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-ai-lab.github.io"><img src="https://img.shields.io/badge/Website-6d28d9?style=flat-square&logo=githubpages&logoColor=white" alt="IQ AI Lab website"/></a>
+<a href="https://github.com/iq-ai-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ AI Lab GitHub organization"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -209,16 +254,37 @@
 
 <br/>
 
-> ***"Knowledge that doesn't change a decision is trivia."***
-
-돈·사람·게임의 규칙을 **메커니즘까지 해부하고, 판단 규칙으로 증류**하는 실천적 지혜 연구소.
-
-**영역** &nbsp;·&nbsp; `Thinking` `Money` `People` `Rules` `World` `Synthesis`
-
-**흐름** &nbsp;·&nbsp; Explore → Mechanism → Stress-test → Distill → Document
-
-[![IQ Phronesis Lab](https://img.shields.io/badge/Visit_Site-f59e0b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgPHBhdGggZD0ibTE2LjI0IDcuNzYtMS44MDQgNS40MTFhMiAyIDAgMCAxLTEuMjY1IDEuMjY1TDcuNzYgMTYuMjRsMS44MDQtNS40MTFhMiAyIDAgMCAxIDEuMjY1LTEuMjY1eiIgLz48L3N2Zz4=)](https://iq-phronesis-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-phronesis-lab)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Knowledge that doesn't change a decision is trivia.”</strong>
+<br/><br/>
+돈·사람·게임의 규칙을 <strong>메커니즘까지 해부하고, 판단 규칙으로 증류</strong>하는 실천적 지혜 연구소.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<td>
+<code>Thinking</code>
+<code>Money</code>
+<code>People</code>
+<code>Rules</code>
+<code>World</code>
+<code>Synthesis</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
+<td>Explore → Mechanism → Stress-test → Distill → Document</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-phronesis-lab.github.io"><img src="https://img.shields.io/badge/Website-92400e?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Phronesis Lab website"/></a>
+<a href="https://github.com/iq-phronesis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Phronesis Lab GitHub organization"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -227,16 +293,38 @@
 
 <br/>
 
-> ***"Derive, don't accept — from the fewest principles, the widest world."***
-
-공식을 외우는 대신, **가장 적은 원리에서 가장 넓은 세계를 유도**하는 물리 본질 연구소.
-
-**영역** &nbsp;·&nbsp; `Language` `Classical` `Statistical` `Quantum` `Relativity` `Frontier` `Synthesis`
-
-**흐름** &nbsp;·&nbsp; 제1원리 → 유도 → 반증 → 경계 → 창발
-
-[![IQ Physis Lab](https://img.shields.io/badge/Visit_Site-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMSIgLz4KICA8cGF0aCBkPSJNMjAuMiAyMC4yYzIuMDQtMi4wMy4wMi03LjM2LTQuNS0xMS45LTQuNTQtNC41Mi05Ljg3LTYuNTQtMTEuOS00LjUtMi4wNCAyLjAzLS4wMiA3LjM2IDQuNSAxMS45IDQuNTQgNC41MiA5Ljg3IDYuNTQgMTEuOSA0LjVaIiAvPgogIDxwYXRoIGQ9Ik0xNS43IDE1LjdjNC41Mi00LjU0IDYuNTQtOS44NyA0LjUtMTEuOS0yLjAzLTIuMDQtNy4zNi0uMDItMTEuOSA0LjUtNC41MiA0LjU0LTYuNTQgOS44Ny00LjUgMTEuOSAyLjAzIDIuMDQgNy4zNi4wMiAxMS45LTQuNVoiIC8+PC9zdmc+)](https://iq-physis-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-physis-lab)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Derive, don't accept — from the fewest principles, the widest world.”</strong>
+<br/><br/>
+공식을 외우는 대신, <strong>가장 적은 원리에서 가장 넓은 세계를 유도</strong>하는 물리 본질 연구소.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<td>
+<code>Language</code>
+<code>Classical</code>
+<code>Statistical</code>
+<code>Quantum</code>
+<code>Relativity</code>
+<code>Frontier</code>
+<code>Synthesis</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
+<td>제1원리 → 유도 → 반증 → 경계 → 창발</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Website-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Physis Lab website"/></a>
+<a href="https://github.com/iq-physis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Physis Lab GitHub organization"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -245,16 +333,38 @@
 
 <br/>
 
-> ***"Explain it, don't explain it away."***
-
-뉴런이라는 가장 단단한 바닥에서 *경험하는 나 자신*까지, **마음을 한 층씩 쌓아 올려 설명**하는 연구소. 설명이 끝내 닿지 못하는 곳을 지우지 않고 정직하게 표시합니다.
-
-**영역** &nbsp;·&nbsp; `Language of Mind` `Neural Substrate` `Cognition` `Computational Mind` `Consciousness` `The Self` `Synthesis`
-
-**흐름** &nbsp;·&nbsp; Explore → Mechanism → Test → Connect → Document
-
-[![IQ Psyche Lab](https://img.shields.io/badge/Visit_Site-ec4899?style=for-the-badge&logo=gitbook&logoColor=white)](https://iq-psyche-lab.github.io)
-[![Organization](https://img.shields.io/badge/GitHub_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-psyche-lab)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Explain it, don't explain it away.”</strong>
+<br/><br/>
+뉴런이라는 가장 단단한 바닥에서 <em>경험하는 나 자신</em>까지, <strong>마음을 한 층씩 쌓아 올려 설명</strong>하는 연구소. 설명이 끝내 닿지 못하는 곳을 지우지 않고 정직하게 표시합니다.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<td>
+<code>Language of Mind</code>
+<code>Neural Substrate</code>
+<code>Cognition</code>
+<code>Computational Mind</code>
+<code>Consciousness</code>
+<code>The Self</code>
+<code>Synthesis</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
+<td>Explore → Mechanism → Test → Connect → Document</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Website-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Psyche Lab website"/></a>
+<a href="https://github.com/iq-psyche-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Psyche Lab GitHub organization"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -263,16 +373,36 @@
 
 <br/>
 
-> ***"Don't just read it — spiral into it."***
-
-Dev · AI · Phronesis · Physis · Psyche의 지식을 **하나의 나선형 학습 경험**으로 연결하는 은하.
-
-**궤도** &nbsp;·&nbsp; `Dev` `AI` `Phronesis` `Physis` `Psyche`
-
-**역할** &nbsp;·&nbsp; 여섯 번째 랩이 아닌, 다섯 랩을 잇는 학습 허브
-
-[![Spiral Galaxy](https://img.shields.io/badge/Enter_Galaxy-a855f7?style=for-the-badge&logo=githubpages&logoColor=white)](https://iq-spiral-galaxy.github.io/)
-[![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Don't just read it — spiral into it.”</strong>
+<br/><br/>
+Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선형 학습 경험</strong>으로 연결하는 은하.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">연결 대상</th>
+<td>
+<code>Dev</code>
+<code>AI</code>
+<code>Phronesis</code>
+<code>Physis</code>
+<code>Psyche</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">허브 역할</th>
+<td>여섯 번째 랩이 아닌, 다섯 랩을 잇는 학습 허브</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-spiral-galaxy.github.io/"><img src="https://img.shields.io/badge/Enter_Galaxy-7e22ce?style=flat-square&logo=githubpages&logoColor=white" alt="Enter Spiral Galaxy"/></a>
+<a href="https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Spiral Galaxy GitHub repository"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -281,15 +411,29 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 **하나의 나선형 �
 
 <br/>
 
-> ***"Not usage, but essence — recorded as proof."***
-
-표면적인 사용법이 아닌, **본질을 증명하는 기록**.
-
-**역할** &nbsp;·&nbsp; **다섯 IQ Lab**의 탐구를 정제
-
-**발행** &nbsp;·&nbsp; 정리(Theorem) · 증명(Proof)으로 정제해 발행하는 허브
-
-[![IQ Lab Blog](https://img.shields.io/badge/Visit_Site-00d9ff?style=for-the-badge&logo=astro&logoColor=white)](https://iq-universe.github.io/iq-blog/)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“Not usage, but essence — recorded as proof.”</strong>
+<br/><br/>
+표면적인 사용법이 아닌, <strong>본질을 증명하는 기록</strong>.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">핵심 역할</th>
+<td><strong>다섯 IQ Lab</strong>의 탐구를 정제</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">발행 방식</th>
+<td><code>정리 (Theorem)</code> · <code>증명 (Proof)</code>으로 정제해 발행하는 허브</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-universe.github.io/iq-blog/"><img src="https://img.shields.io/badge/Read_Blog-0369a1?style=flat-square&logo=astro&logoColor=white" alt="Read IQ Lab Blog"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -298,17 +442,49 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 **하나의 나선형 �
 
 <br/>
 
-> ***"신박한 조합, 신나는 출퇴근."***
-
-세계 전통악기 × 현대 장르의 **fusion 음악 레이블**.
-
-**악기** &nbsp;·&nbsp; `가야금` `해금` `장구` `시타르` `타블라` `우드` `코라` `디제리두`
-
-**장르** &nbsp;·&nbsp; `boom-bap` `funky` `jazz` `ambient` `lo-fi` `experimental`
-
-**흐름** &nbsp;·&nbsp; iq-composer 양산(30~50개) → IQ 큐레이션 → 발행
-
-[![Label Q](https://img.shields.io/badge/Visit_Site-E84852?style=for-the-badge&logo=bandcamp&logoColor=white)](https://iq-universe.github.io/iq-label/)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“신박한 조합, 신나는 출퇴근.”</strong>
+<br/><br/>
+세계 전통악기 × 현대 장르의 <strong>fusion 음악 레이블</strong>.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">사용 악기</th>
+<td>
+<code>가야금</code>
+<code>해금</code>
+<code>장구</code>
+<code>시타르</code>
+<code>타블라</code>
+<code>우드</code>
+<code>코라</code>
+<code>디제리두</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">혼합 장르</th>
+<td>
+<code>boom-bap</code>
+<code>funky</code>
+<code>jazz</code>
+<code>ambient</code>
+<code>lo-fi</code>
+<code>experimental</code>
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">제작 흐름</th>
+<td>iq-composer 양산(30~50개) → IQ 큐레이션 → 발행</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://iq-universe.github.io/iq-label/"><img src="https://img.shields.io/badge/Visit_Label-be123c?style=flat-square&logo=bandcamp&logoColor=white" alt="Visit IQ Label"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -317,11 +493,29 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 **하나의 나선형 �
 
 <br/>
 
-> ***"I Question, therefore I am."***
-
-우아한테크코스 8기 백엔드 크루 — 끊임없는 **'질문(Question)'으로 객체 지향과 자바의 본질**을 탐구하는 기록소.
-
-[![Woowa 8th BE IQ](https://img.shields.io/badge/Visit_Archive-00bfa5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Woowa-8th-BE-IQ)
+<table width="100%">
+<tr>
+<td colspan="2">
+<strong>“I Question, therefore I am.”</strong>
+<br/><br/>
+우아한테크코스 8기 백엔드 크루 — 끊임없는 <strong>'질문(Question)'으로 객체 지향과 자바의 본질</strong>을 탐구하는 기록소.
+</td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">기록 대상</th>
+<td><code>우아한테크코스 8기</code> <code>Backend</code></td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">탐구 주제</th>
+<td><code>객체 지향</code> <code>Java</code></td>
+</tr>
+<tr>
+<th scope="row" width="96" align="left" valign="top">바로가기</th>
+<td>
+<a href="https://github.com/Woowa-8th-BE-IQ"><img src="https://img.shields.io/badge/Open_Archive-047857?style=flat-square&logo=github&logoColor=white" alt="Open Woowacourse 8th BE IQ Archive"/></a>
+</td>
+</tr>
+</table>
 
 </details>
 
