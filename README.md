@@ -110,7 +110,7 @@
 
 <br/>
 
-<sub>✦ &nbsp; PROJECTS IN ORBIT &nbsp; ✦</sub>
+<sub>✦ &nbsp; OTHER WORLDS &nbsp; ✦</sub>
 
 <br/>
 <br/>
