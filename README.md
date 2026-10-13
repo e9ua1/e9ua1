@@ -79,7 +79,7 @@
 </td>
 <td align="center" width="280">
 <a href="https://iq-spiral-galaxy.github.io/">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — five IQ Labs orbiting one learning universe"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — a black hole and its accretion disk"/>
   <br/>
   <b>Spiral&nbsp;Galaxy</b>
 </a>
@@ -103,60 +103,6 @@
 <br/>
 <a href="https://iq-psyche-lab.github.io">
   <img src="https://img.shields.io/badge/Visit-ec4899?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<sub>✦ &nbsp; OTHER WORLDS &nbsp; ✦</sub>
-
-<br/>
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="280">
-<a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="28"/>
-  <br/>
-  <b>IQ&nbsp;Blog</b>
-</a>
-<br/>
-<sub>딥다이브 발행 허브</sub>
-<br/>
-<br/>
-<a href="https://iq-universe.github.io/iq-blog/">
-  <img src="https://img.shields.io/badge/Visit-00d9ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiIC8+CiAgPHBhdGggZD0iTTggMTFoOCIgLz4KICA8cGF0aCBkPSJNOCA3aDYiIC8+PC9zdmc+&logoColor=white" />
-</a>
-</td>
-<td align="center" width="280">
-<a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="28"/>
-  <br/>
-  <b>IQ&nbsp;Label</b>
-</a>
-<br/>
-<sub>fusion 음악 레이블</sub>
-<br/>
-<br/>
-<a href="https://iq-universe.github.io/iq-label/">
-  <img src="https://img.shields.io/badge/Visit-E84852?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgPHBhdGggZD0iTTYgMTJjMC0xLjcuNy0zLjIgMS44LTQuMiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIiAvPgogIDxwYXRoIGQ9Ik0xOCAxMmMwIDEuNy0uNyAzLjItMS44IDQuMiIgLz48L3N2Zz4=&logoColor=white" />
-</a>
-</td>
-<td align="center" width="280">
-<a href="https://github.com/Woowa-8th-BE-IQ">
-  <img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="28"/>
-  <br/>
-  <b>Woowa&nbsp;8th&nbsp;BE</b>
-</a>
-<br/>
-<sub>우테코 8기 백엔드</sub>
-<br/>
-<br/>
-<a href="https://github.com/Woowa-8th-BE-IQ">
-  <img src="https://img.shields.io/badge/Visit-00bfa5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIwLjM0MSA2LjQ4NEExMCAxMCAwIDAgMSAxMC4yNjYgMjEuODUiIC8+CiAgPHBhdGggZD0iTTMuNjU5IDE3LjUxNkExMCAxMCAwIDAgMSAxMy43NCAyLjE1MiIgLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIiAvPgogIDxjaXJjbGUgY3g9IjE5IiBjeT0iNSIgcj0iMiIgLz4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiIC8+PC9zdmc+&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -406,99 +352,68 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선
 
 </details>
 
-<details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/book-text.svg?color=%2300d9ff" width="16" align="center"/> &nbsp;<b>IQ Lab Blog</b> &nbsp;—&nbsp; 본질을 증명하는 딥다이브 발행 허브</summary>
+<br/>
+
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%231a1a1a" width="28"/> Projects
+
+<table width="100%">
+<tr>
+<td>
+<a href="https://www.harudle.com">
+  <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%23f97316" width="28" alt="하루들"/>
+  &nbsp;<b>하루들 · Harudle</b>
+</a>
+<br/>
+<sub>우아한테크코스 8기 팀 프로젝트</sub>
+<br/><br/>
+함께한 순간을 글로 기록하면 <strong>AI 네컷만화</strong>로 만들어 주는 서비스
+<br/><br/>
+<a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Website-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
+<a href="https://github.com/woowacourse-teams/2026-Harudle"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="하루들 GitHub 저장소"/></a>
+</td>
+</tr>
+</table>
 
 <br/>
+
+## <img src="https://api.iconify.design/lucide/book-text.svg?color=%231a1a1a" width="28"/> IQ Blog
 
 <table width="100%">
 <tr>
 <td colspan="2">
-<strong>“Not usage, but essence — recorded as proof.”</strong>
-<br/><br/>
-표면적인 사용법이 아닌, <strong>본질을 증명하는 기록</strong>.
+본질을 탐구하며 핵심 내용을 압축해 발행하는 공간
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">핵심 역할</th>
-<td><strong>다섯 IQ Lab</strong>의 탐구를 정제</td>
+<th scope="row" width="96" align="left" valign="top">주제</th>
+<td>
+<code>개발</code>
+<code>AI</code>
+<code>실천적 지혜</code>
+<code>물리학</code>
+<code>마음과 의식</code>
+</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">발행 방식</th>
-<td><code>정리 (Theorem)</code> · <code>증명 (Proof)</code>으로 정제해 발행하는 허브</td>
+<td>탐구한 내용을 압축해 핵심만 남기고 블로그에 발행</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-universe.github.io/iq-blog/"><img src="https://img.shields.io/badge/Read_Blog-0369a1?style=flat-square&logo=astro&logoColor=white" alt="Read IQ Lab Blog"/></a>
+<a href="https://iq-universe.github.io/iq-blog/"><img src="https://img.shields.io/badge/Read_Blog-0369a1?style=flat-square&logo=astro&logoColor=white" alt="블로그 바로가기"/></a>
 </td>
 </tr>
 </table>
 
-</details>
-
-<details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/disc-3.svg?color=%23E84852" width="16" align="center"/> &nbsp;<b>IQ Label</b> &nbsp;—&nbsp; AI 생성 × 손 큐레이션 fusion 음악 레이블</summary>
-
 <br/>
+
+## <img src="https://api.iconify.design/lucide/orbit.svg?color=%231a1a1a" width="28"/> Woowa 8th BE
 
 <table width="100%">
 <tr>
 <td colspan="2">
-<strong>“신박한 조합, 신나는 출퇴근.”</strong>
-<br/><br/>
-세계 전통악기 × 현대 장르의 <strong>fusion 음악 레이블</strong>.
-</td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">사용 악기</th>
-<td>
-<code>가야금</code>
-<code>해금</code>
-<code>장구</code>
-<code>시타르</code>
-<code>타블라</code>
-<code>우드</code>
-<code>코라</code>
-<code>디제리두</code>
-</td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">혼합 장르</th>
-<td>
-<code>boom-bap</code>
-<code>funky</code>
-<code>jazz</code>
-<code>ambient</code>
-<code>lo-fi</code>
-<code>experimental</code>
-</td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">제작 흐름</th>
-<td>iq-composer 양산(30~50개) → IQ 큐레이션 → 발행</td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">바로가기</th>
-<td>
-<a href="https://iq-universe.github.io/iq-label/"><img src="https://img.shields.io/badge/Visit_Label-be123c?style=flat-square&logo=bandcamp&logoColor=white" alt="Visit IQ Label"/></a>
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%2300bfa5" width="16" align="center"/> &nbsp;<b>Woowacourse 8th BE — IQ Archive</b> &nbsp;—&nbsp; 우테코 8기 백엔드 아카이브</summary>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td colspan="2">
-<strong>“I Question, therefore I am.”</strong>
-<br/><br/>
-우아한테크코스 8기 백엔드 크루 — 끊임없는 <strong>'질문(Question)'으로 객체 지향과 자바의 본질</strong>을 탐구하는 기록소.
+우아한테크코스 8기 백엔드 기록을 저장하는 곳
 </td>
 </tr>
 <tr>
@@ -506,18 +421,16 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선
 <td><code>우아한테크코스 8기</code> <code>Backend</code></td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 주제</th>
-<td><code>객체 지향</code> <code>Java</code></td>
+<th scope="row" width="96" align="left" valign="top">기록 내용</th>
+<td><code>OOP</code> <code>Java</code> <code>Spring</code></td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://github.com/Woowa-8th-BE-IQ"><img src="https://img.shields.io/badge/Open_Archive-047857?style=flat-square&logo=github&logoColor=white" alt="Open Woowacourse 8th BE IQ Archive"/></a>
+<a href="https://github.com/Woowa-8th-BE-IQ"><img src="https://img.shields.io/badge/Open_Archive-047857?style=flat-square&logo=github&logoColor=white" alt="우아한테크코스 8기 백엔드 기록"/></a>
 </td>
 </tr>
 </table>
-
-</details>
 
 <br/>
 
@@ -634,20 +547,9 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%231a1a1a" width="28"/> Stats
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=e9ua1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=e9ua1&color=7b2ff7&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/cosmic-footer.svg" width="100%" alt="Thanks for visiting!"/>
 
 </div>
+

@@ -1,347 +1,135 @@
-<svg viewBox="0 0 1200 320" width="1200" height="320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="header-title header-desc">
-  <title id="header-title">Hello, I'm IQ</title>
-  <desc id="header-desc">A luminous spiral galaxy rises beside a clear welcome message in a deep, layered star field.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="header-title header-description">
+  <title id="header-title">Hello, I'm IQ — Nice to meet you</title>
+  <desc id="header-description">A quiet welcome beside a quasar: an ink-dark center, a champagne and ice-blue accretion disk, and a restrained polar jet in deep space.</desc>
   <defs>
-    <linearGradient id="h-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#03050d"/>
-      <stop offset="45%" stop-color="#080b1d"/>
-      <stop offset="72%" stop-color="#12092d"/>
-      <stop offset="100%" stop-color="#05060e"/>
+    <linearGradient id="h-space" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#040711"/>
+      <stop offset=".55" stop-color="#070c18"/>
+      <stop offset="1" stop-color="#0c0e20"/>
     </linearGradient>
-    <radialGradient id="h-nebula-cyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".34"/>
-      <stop offset="52%" stop-color="#0ea5e9" stop-opacity=".12"/>
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    <radialGradient id="h-atmosphere">
+      <stop stop-color="#77799f" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#3d4d70" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#243756" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="h-nebula-violet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity=".42"/>
-      <stop offset="55%" stop-color="#6366f1" stop-opacity=".16"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    <radialGradient id="h-corona">
+      <stop stop-color="#eed9b2" stop-opacity=".26"/>
+      <stop offset=".24" stop-color="#c9b5ae" stop-opacity=".13"/>
+      <stop offset=".57" stop-color="#aaa3d6" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#9cbcd8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="h-nebula-pink" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity=".28"/>
-      <stop offset="58%" stop-color="#db2777" stop-opacity=".1"/>
-      <stop offset="100%" stop-color="#db2777" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="h-core" cx="45%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="16%" stop-color="#e9fbff"/>
-      <stop offset="42%" stop-color="#b9f6ff"/>
-      <stop offset="70%" stop-color="#a855f7" stop-opacity=".82"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="h-arm-a" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="26%" stop-color="#7dd3fc" stop-opacity=".82"/>
-      <stop offset="58%" stop-color="#c4b5fd" stop-opacity=".96"/>
-      <stop offset="82%" stop-color="#ec4899" stop-opacity=".62"/>
-      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    <linearGradient id="h-disk" gradientUnits="userSpaceOnUse" x1="-235" y1="20" x2="235" y2="-15">
+      <stop stop-color="#9cbcd8" stop-opacity="0"/>
+      <stop offset=".14" stop-color="#9cbcd8" stop-opacity=".38"/>
+      <stop offset=".39" stop-color="#d0c7bd" stop-opacity=".9"/>
+      <stop offset=".56" stop-color="#fff0d7"/>
+      <stop offset=".71" stop-color="#b88c62" stop-opacity=".67"/>
+      <stop offset=".9" stop-color="#aaa3d6" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#aaa3d6" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="h-arm-b" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#8b5cf6" stop-opacity=".7"/>
-      <stop offset="62%" stop-color="#b9f6ff" stop-opacity=".88"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    <linearGradient id="h-lens" gradientUnits="userSpaceOnUse" x1="-80" y1="-10" x2="75" y2="-65">
+      <stop stop-color="#9cbcd8" stop-opacity=".05"/>
+      <stop offset=".35" stop-color="#c5c5d0" stop-opacity=".64"/>
+      <stop offset=".58" stop-color="#eed9b2"/>
+      <stop offset="1" stop-color="#b88c62" stop-opacity=".15"/>
     </linearGradient>
-    <linearGradient id="h-scrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#03050d" stop-opacity=".8"/>
-      <stop offset="52%" stop-color="#03050d" stop-opacity=".58"/>
-      <stop offset="100%" stop-color="#03050d" stop-opacity="0"/>
+    <linearGradient id="h-jet" gradientUnits="userSpaceOnUse" x1="0" y1="-170" x2="0" y2="-15">
+      <stop stop-color="#9cbcd8" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#9cbcd8" stop-opacity=".07"/>
+      <stop offset=".85" stop-color="#b3ccd9" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#f4e3c6" stop-opacity=".4"/>
     </linearGradient>
-    <linearGradient id="h-dust-lane" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0"/>
-      <stop offset="24%" stop-color="#1e1b4b" stop-opacity=".16"/>
-      <stop offset="52%" stop-color="#0f1028" stop-opacity=".42"/>
-      <stop offset="78%" stop-color="#312e81" stop-opacity=".14"/>
-      <stop offset="100%" stop-color="#312e81" stop-opacity="0"/>
+    <linearGradient id="h-counterjet" gradientUnits="userSpaceOnUse" x1="0" y1="15" x2="0" y2="180">
+      <stop stop-color="#eed9b2" stop-opacity=".24"/>
+      <stop offset=".3" stop-color="#9cbcd8" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#9cbcd8" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="h-accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="48%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    <linearGradient id="h-horizon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d0c7bd" stop-opacity=".7"/>
+      <stop offset=".46" stop-color="#eed9b2" stop-opacity=".13"/>
+      <stop offset=".75" stop-color="#aaa3d6" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#9cbcd8" stop-opacity=".06"/>
     </linearGradient>
-    <radialGradient id="h-vignette" cx="54%" cy="50%" r="72%">
-      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity=".56"/>
-    </radialGradient>
-
-    <clipPath id="h-clip">
-      <rect width="1200" height="320" rx="26"/>
-    </clipPath>
-    <filter id="h-blur-xl" x="-30%" y="-80%" width="160%" height="260%">
-      <feGaussianBlur stdDeviation="28"/>
-    </filter>
-    <filter id="h-blur-md" x="-40%" y="-80%" width="180%" height="260%">
-      <feGaussianBlur stdDeviation="7"/>
-    </filter>
-    <filter id="h-dust-soft" x="-30%" y="-120%" width="160%" height="340%">
-      <feGaussianBlur stdDeviation="1.6"/>
-    </filter>
-    <filter id="h-glow" x="-120%" y="-120%" width="340%" height="340%">
-      <feGaussianBlur stdDeviation="4.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="h-text-shadow" x="-30%" y="-80%" width="160%" height="260%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#03050d" flood-opacity=".95"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#6366f1" flood-opacity=".34"/>
+    <linearGradient id="h-text-field" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#040711" stop-opacity=".72"/>
+      <stop offset=".5" stop-color="#040711" stop-opacity=".4"/>
+      <stop offset=".78" stop-color="#040711" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="h-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#eed9b2" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#9cbcd8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="h-frame"><rect width="1200" height="320" rx="24"/></clipPath>
+    <filter id="h-light" x="-30%" y="-60%" width="160%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="h-feather" x="-15%" y="-30%" width="130%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.4"/></filter>
+    <filter id="h-dust" x="-8%" y="-20%" width="116%" height="140%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".02 .08" numOctaves="2" seed="14" result="grain"/>
+      <feDisplacementMap in="SourceGraphic" in2="grain" scale="2.6" xChannelSelector="R" yChannelSelector="G"/>
     </filter>
   </defs>
-
   <style>
-    @keyframes h-spin {
-      to { transform: rotate(360deg); }
-    }
-    @keyframes h-spin-back {
-      to { transform: rotate(-360deg); }
-    }
-    @keyframes h-breathe {
-      0%, 100% { opacity: .82; transform: scale(.98); }
-      50% { opacity: 1; transform: scale(1.025); }
-    }
-    @keyframes h-twinkle {
-      0%, 100% { opacity: .22; }
-      50% { opacity: 1; }
-    }
-    @keyframes h-dash {
-      to { stroke-dashoffset: -120; }
-    }
-    @keyframes h-type-main {
-      0%, 4% {
-        clip-path: inset(0 100% 0 0);
-      }
-      4.01% {
-        clip-path: inset(0 100% 0 0);
-        animation-timing-function: steps(13, end);
-      }
-      32%, 100% {
-        clip-path: inset(0 0 0 0);
-      }
-    }
-    @keyframes h-type-sub {
-      0%, 36% {
-        clip-path: inset(0 100% 0 0);
-      }
-      36.01% {
-        clip-path: inset(0 100% 0 0);
-        animation-timing-function: steps(16, end);
-      }
-      68%, 100% {
-        clip-path: inset(0 0 0 0);
-      }
-    }
-    @keyframes h-caret-main {
-      0%, 4% {
-        opacity: 0;
-        transform: translateX(0);
-      }
-      4.01% {
-        opacity: 1;
-        transform: translateX(0);
-        animation-timing-function: steps(13, end);
-      }
-      32% {
-        opacity: 1;
-        transform: translateX(336px);
-      }
-      32.01%, 100% {
-        opacity: 0;
-        transform: translateX(336px);
-      }
-    }
-    @keyframes h-caret-sub {
-      0%, 36% {
-        opacity: 0;
-        transform: translateX(0);
-      }
-      36.01% {
-        opacity: 1;
-        transform: translateX(0);
-        animation-timing-function: steps(16, end);
-      }
-      68% {
-        opacity: 1;
-        transform: translateX(272px);
-      }
-      68.01%, 100% {
-        opacity: 0;
-        transform: translateX(272px);
-      }
-    }
-    @keyframes h-caret-blink {
-      0%, 48% { opacity: 1; }
-      49%, 100% { opacity: 0; }
-    }
-
-    .h-origin {
-      transform-box: fill-box;
-      transform-origin: center;
-    }
-    .h-galaxy {
-      animation: h-spin 82s linear infinite;
-    }
-    .h-orbit {
-      animation: h-spin-back 105s linear infinite;
-    }
-    .h-core-pulse {
-      animation: h-breathe 5.8s ease-in-out infinite;
-    }
-    .h-star {
-      animation: h-twinkle 5s ease-in-out infinite;
-    }
-    .h-dust {
-      animation: h-dash 24s linear infinite;
-    }
-    .h-type-main,
-    .h-type-sub {
-      clip-path: inset(0 0 0 0);
-    }
-    .h-type-main {
-      animation: h-type-main 10s linear infinite;
-    }
-    .h-type-sub {
-      animation: h-type-sub 10s linear infinite;
-    }
-    .h-caret-main-track {
-      opacity: 0;
-      animation: h-caret-main 10s linear infinite;
-    }
-    .h-caret-sub-track {
-      opacity: 0;
-      animation: h-caret-sub 10s linear infinite;
-    }
-    .h-caret-blink {
-      animation: h-caret-blink .82s step-end infinite;
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .h-galaxy,
-      .h-orbit,
-      .h-core-pulse,
-      .h-star,
-      .h-dust {
-        animation: none !important;
-      }
-      .h-type-main,
-      .h-type-sub {
-        animation: none !important;
-        clip-path: inset(0 0 0 0) !important;
-      }
-      .h-caret-main-track,
-      .h-caret-sub-track {
-        display: none;
-      }
-    }
+    @keyframes h-luminosity { 0%,100% {opacity:.86} 50% {opacity:1} }
+    @keyframes h-jet-light { 0%,100% {opacity:.7} 50% {opacity:.88} }
+    .h-disk-light {animation:h-luminosity 24s ease-in-out infinite}
+    .h-polar-light {animation:h-jet-light 28s ease-in-out infinite}
+    @media(prefers-reduced-motion:reduce) {.h-disk-light,.h-polar-light {animation:none}}
   </style>
-
-  <g clip-path="url(#h-clip)">
-    <rect width="1200" height="320" fill="url(#h-bg)"/>
-
-    <ellipse cx="190" cy="42" rx="340" ry="180" fill="url(#h-nebula-cyan)" filter="url(#h-blur-xl)"/>
-    <ellipse cx="875" cy="154" rx="390" ry="210" fill="url(#h-nebula-violet)" filter="url(#h-blur-xl)"/>
-    <ellipse cx="1120" cy="286" rx="320" ry="150" fill="url(#h-nebula-pink)" filter="url(#h-blur-xl)"/>
-
-    <path class="h-dust" d="M-80 278C180 205 365 270 560 225S940 72 1280 130" fill="none" stroke="#7dd3fc" stroke-opacity=".15" stroke-width="1.2" stroke-dasharray="4 16"/>
-    <path d="M-60 294C180 235 390 296 610 244S1000 88 1270 176" fill="none" stroke="#a855f7" stroke-opacity=".11" stroke-width="22" filter="url(#h-blur-md)"/>
-    <path d="M-80 65C165 112 292 48 480 88S765 213 1015 183S1210 114 1280 91" fill="none" stroke="#ec4899" stroke-opacity=".08" stroke-width="16" filter="url(#h-blur-md)"/>
-
-    <g fill="#ffffff" opacity=".36">
-      <circle cx="39" cy="64" r=".7"/>
-      <circle cx="82" cy="242" r=".8"/>
-      <circle cx="127" cy="111" r=".6"/>
-      <circle cx="168" cy="286" r=".8"/>
-      <circle cx="214" cy="201" r=".6"/>
-      <circle cx="258" cy="31" r=".7"/>
-      <circle cx="301" cy="259" r=".6"/>
-      <circle cx="347" cy="79" r=".8"/>
-      <circle cx="393" cy="292" r=".7"/>
-      <circle cx="441" cy="43" r=".6"/>
-      <circle cx="487" cy="245" r=".8"/>
-      <circle cx="532" cy="94" r=".6"/>
-      <circle cx="577" cy="289" r=".7"/>
-      <circle cx="626" cy="36" r=".8"/>
-      <circle cx="669" cy="221" r=".6"/>
-      <circle cx="713" cy="75" r=".7"/>
-      <circle cx="757" cy="285" r=".8"/>
-      <circle cx="805" cy="34" r=".6"/>
-      <circle cx="851" cy="258" r=".7"/>
-      <circle cx="899" cy="62" r=".8"/>
-      <circle cx="946" cy="292" r=".6"/>
-      <circle cx="994" cy="31" r=".7"/>
-      <circle cx="1037" cy="231" r=".8"/>
-      <circle cx="1082" cy="77" r=".6"/>
-      <circle cx="1127" cy="276" r=".7"/>
-      <circle cx="1170" cy="118" r=".8"/>
+  <g clip-path="url(#h-frame)">
+    <rect width="1200" height="320" fill="url(#h-space)"/>
+    <ellipse cx="956" cy="144" rx="394" ry="244" fill="url(#h-atmosphere)"/>
+    <g fill="#c8d3e2" opacity=".3">
+      <circle cx="38" cy="68" r=".7"/><circle cx="118" cy="38" r=".6"/><circle cx="208" cy="277" r=".8"/>
+      <circle cx="312" cy="55" r=".65"/><circle cx="401" cy="31" r=".7"/><circle cx="472" cy="262" r=".65"/>
+      <circle cx="552" cy="80" r=".8"/><circle cx="587" cy="234" r=".7"/><circle cx="643" cy="46" r=".6"/>
+      <circle cx="699" cy="291" r=".8"/><circle cx="739" cy="74" r=".65"/><circle cx="761" cy="246" r=".6"/>
+      <circle cx="812" cy="30" r=".7"/><circle cx="874" cy="279" r=".65"/><circle cx="904" cy="60" r=".55"/>
+      <circle cx="1010" cy="33" r=".65"/><circle cx="1049" cy="275" r=".7"/><circle cx="1118" cy="55" r=".8"/>
+      <circle cx="1160" cy="225" r=".65"/><circle cx="1138" cy="297" r=".65"/><circle cx="665" cy="180" r=".55"/>
+      <circle cx="490" cy="40" r=".55"/><circle cx="354" cy="286" r=".55"/><circle cx="1098" cy="202" r=".65"/>
     </g>
-
-    <g fill="#ffffff">
-      <circle class="h-star" cx="63" cy="174" r="1.6" style="animation-duration:5.6s"/>
-      <circle class="h-star" cx="139" cy="52" r="1.15" style="animation-duration:6.8s;animation-delay:.7s" fill="#b9f6ff"/>
-      <circle class="h-star" cx="226" cy="246" r="1.35" style="animation-duration:5.1s;animation-delay:1.5s"/>
-      <circle class="h-star" cx="329" cy="126" r="1.1" style="animation-duration:7.2s;animation-delay:.4s" fill="#d8b4fe"/>
-      <circle class="h-star" cx="462" cy="271" r="1.5" style="animation-duration:6.1s;animation-delay:2s"/>
-      <circle class="h-star" cx="548" cy="52" r="1.2" style="animation-duration:5.4s;animation-delay:1.1s" fill="#b9f6ff"/>
-      <circle class="h-star" cx="649" cy="250" r="1.4" style="animation-duration:7.5s;animation-delay:.9s"/>
-      <circle class="h-star" cx="742" cy="44" r="1.05" style="animation-duration:6.4s;animation-delay:1.8s"/>
-      <circle class="h-star" cx="835" cy="277" r="1.55" style="animation-duration:5.8s;animation-delay:.3s" fill="#d8b4fe"/>
-      <circle class="h-star" cx="963" cy="48" r="1.2" style="animation-duration:7s;animation-delay:1.3s"/>
-      <circle class="h-star" cx="1088" cy="223" r="1.5" style="animation-duration:5.3s;animation-delay:2.2s" fill="#b9f6ff"/>
-      <circle class="h-star" cx="1161" cy="44" r="1.15" style="animation-duration:6.6s;animation-delay:.6s"/>
+    <g fill="#e0e5ee">
+      <circle cx="61" cy="242" r=".9" opacity=".45"/><circle cx="681" cy="93" r="1" opacity=".5"/>
+      <circle cx="1116" cy="105" r="1.1" opacity=".5"/><circle cx="807" cy="276" r=".95" opacity=".48"/>
+      <circle cx="1042" cy="55" r=".9" opacity=".42"/><circle cx="580" cy="32" r=".8" opacity=".38"/>
     </g>
-
-    <g transform="translate(895 159)">
-      <ellipse rx="312" ry="112" fill="url(#h-nebula-violet)" opacity=".68" filter="url(#h-blur-xl)"/>
-
-      <g class="h-galaxy h-origin">
-        <path d="M0 0C84-86 226-72 286-3C337 57 270 119 151 131C11 145-137 87-181 3C-220-73-132-141-7-146C133-151 260-93 288-14" fill="none" stroke="url(#h-arm-a)" stroke-width="15" stroke-linecap="round" opacity=".34" filter="url(#h-blur-md)"/>
-        <path d="M0 0C84-86 226-72 286-3C337 57 270 119 151 131C11 145-137 87-181 3C-220-73-132-141-7-146C133-151 260-93 288-14" fill="none" stroke="url(#h-arm-a)" stroke-width="3.2" stroke-linecap="round" opacity=".88"/>
-        <path d="M0 0C-76 82-215 71-271 9C-323-51-261-116-149-129C-13-144 132-89 179-5C219 70 132 138 8 145C-131 152-255 95-284 18" fill="none" stroke="url(#h-arm-b)" stroke-width="13" stroke-linecap="round" opacity=".3" filter="url(#h-blur-md)"/>
-        <path d="M0 0C-76 82-215 71-271 9C-323-51-261-116-149-129C-13-144 132-89 179-5C219 70 132 138 8 145C-131 152-255 95-284 18" fill="none" stroke="url(#h-arm-b)" stroke-width="2.8" stroke-linecap="round" opacity=".82"/>
-        <path d="M-210 40C-98 9 61-12 216-55" fill="none" stroke="url(#h-dust-lane)" stroke-width="8" stroke-linecap="round" filter="url(#h-dust-soft)"/>
-      </g>
-
-      <g class="h-orbit h-origin">
-        <ellipse rx="272" ry="108" fill="none" stroke="#c4b5fd" stroke-opacity=".24" stroke-width="1" stroke-dasharray="3 10"/>
-        <g filter="url(#h-glow)">
-          <circle cx="0" cy="-108" r="4.8" fill="#ff4d4d"/>
-          <circle cx="259" cy="-33" r="4.8" fill="#a78bfa"/>
-          <circle cx="160" cy="87" r="4.8" fill="#f59e0b"/>
-          <circle cx="-160" cy="87" r="4.8" fill="#6366f1"/>
-          <circle cx="-259" cy="-33" r="4.8" fill="#ec4899"/>
+    <g transform="translate(946 160)">
+      <g transform="rotate(-14)">
+        <ellipse rx="246" ry="121" fill="url(#h-corona)"/>
+        <g class="h-polar-light">
+          <path d="M-4-22 -17-173 Q0-179 15-173 L4-22Z" fill="url(#h-jet)" filter="url(#h-light)"/>
+          <path d="M-2-24 -6-158 Q0-162 5-157 L2-24Z" fill="url(#h-jet)"/>
+          <path d="M-4 20-13 181Q0 186 16 180L4 20Z" fill="url(#h-counterjet)" filter="url(#h-light)"/>
+        </g>
+        <g fill="none" stroke="url(#h-disk)" stroke-linecap="round" class="h-disk-light">
+          <path d="M-241 15C-168-54 145-65 240 15" stroke-width="14" opacity=".24" filter="url(#h-light)"/>
+          <path d="M-235 14C-168-53 146-57 235 14" stroke-width="1.1" opacity=".45"/>
+          <path d="M-222 12C-135-39 137-44 224 11" stroke-width="2.1" opacity=".42" filter="url(#h-dust)"/>
+          <path d="M-197 9C-129-27 132-35 201 10" stroke-width="1.1" opacity=".42"/>
+          <path d="M-168 6C-118-19 117-25 172 6" stroke-width=".8" opacity=".44"/>
+        </g>
+        <circle r="36" fill="#02040a"/>
+        <circle r="36.7" fill="none" stroke="url(#h-horizon)" stroke-width="1.1"/>
+        <g fill="none" stroke="url(#h-lens)" stroke-linecap="round">
+          <path d="M-68-4C-71-43-35-70 3-70C39-70 74-42 70-5" stroke-width="7" opacity=".26" filter="url(#h-light)"/>
+          <path d="M-68-4C-69-44-35-67 3-67C39-67 71-41 70-5" stroke-width="2.3" opacity=".86"/>
+          <path d="M-61-9C-54-45-25-59 8-59C38-59 61-35 64-8" stroke-width=".8" opacity=".38"/>
+          <path d="M-52 10C-48 43 43 47 55 9" stroke-width="1.2" opacity=".34"/>
+        </g>
+        <g fill="none" stroke="url(#h-disk)" stroke-linecap="round" class="h-disk-light">
+          <path d="M-236 16C-161 54-85 40-4 24C89 5 171-3 234 15" stroke-width="11" opacity=".35" filter="url(#h-light)"/>
+          <path d="M-233 16C-159 49-83 37-3 23C88 7 171-1 234 15" stroke-width="3.2" opacity=".91" filter="url(#h-dust)"/>
+          <path d="M-235 17C-155 59-62 50 24 31C106 12 177 4 236 17" stroke-width="1.2" opacity=".46"/>
+          <path d="M-212 23C-145 66-45 58 36 40C115 21 175 15 217 25" stroke-width=".8" opacity=".28"/>
+          <path d="M-196 27C-130 68-40 66 47 44C121 25 167 23 199 30" stroke-width="2.5" opacity=".15" filter="url(#h-feather)"/>
         </g>
       </g>
-
-      <ellipse class="h-core-pulse h-origin" rx="78" ry="48" fill="url(#h-core)" filter="url(#h-blur-md)"/>
-      <ellipse rx="39" ry="22" fill="url(#h-core)" filter="url(#h-glow)"/>
-      <circle r="6" fill="#ffffff"/>
     </g>
-
-    <rect width="1200" height="320" fill="url(#h-vignette)"/>
-    <rect width="720" height="320" fill="url(#h-scrim)"/>
-    <g filter="url(#h-text-shadow)">
-      <text class="h-type-main" x="104" y="145" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="2.4" fill="#ffffff">HELLO, I'M IQ</text>
+    <rect width="1200" height="320" fill="url(#h-text-field)"/>
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="80" y="145" fill="#f1f3f7" font-size="58" font-weight="500" letter-spacing="1.2">HELLO, I'M IQ</text>
+      <text x="83" y="194" fill="#a8b5c9" font-size="34" font-weight="400" letter-spacing="2.3">NICE TO MEET YOU</text>
     </g>
-    <g filter="url(#h-text-shadow)">
-      <text class="h-type-sub" x="108" y="187" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#b9f6ff">NICE TO MEET YOU</text>
-    </g>
-    <g class="h-caret-main-track">
-      <rect class="h-caret-blink" x="104" y="103" width="4" height="49" rx="1.5" fill="#b9f6ff" filter="url(#h-glow)"/>
-    </g>
-    <g class="h-caret-sub-track">
-      <rect class="h-caret-blink" x="108" y="163" width="3" height="29" rx="1.5" fill="#b9f6ff" filter="url(#h-glow)"/>
-    </g>
-    <rect x="106" y="209" width="246" height="2.5" rx="1.25" fill="url(#h-accent)"/>
-
-    <g transform="translate(106 231)" filter="url(#h-glow)">
-      <circle cx="0" cy="0" r="2.6" fill="#ff4d4d"/>
-      <circle cx="15" cy="0" r="2.6" fill="#a78bfa"/>
-      <circle cx="30" cy="0" r="2.6" fill="#f59e0b"/>
-      <circle cx="45" cy="0" r="2.6" fill="#6366f1"/>
-      <circle cx="60" cy="0" r="2.6" fill="#ec4899"/>
-    </g>
-
+    <rect x="84" y="214" width="173" height="1" fill="url(#h-rule)"/>
+    <rect x=".5" y=".5" width="1199" height="319" rx="23.5" fill="none" stroke="#abb9d0" stroke-opacity=".1"/>
   </g>
 </svg>
