@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/supernova-header.svg" width="100%" alt="Hello, I'm IQ — Nice To Meet You"/>
+<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/69240b64208c40b9a343f1808f5a93825dfe688b/assets/supernova-header.svg" width="100%" alt="Hello, I'm IQ — Nice To Meet You"/>
 
 <i>✦ &nbsp; I question, therefore I am. &nbsp; ✦</i>
 
@@ -79,7 +79,7 @@
 </td>
 <td align="center" width="280">
 <a href="https://iq-spiral-galaxy.github.io/">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — a black hole and its accretion disk"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/69240b64208c40b9a343f1808f5a93825dfe688b/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — a black hole and its accretion disk"/>
   <br/>
   <b>Spiral&nbsp;Galaxy</b>
 </a>
@@ -549,7 +549,7 @@ Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/cosmic-footer.svg" width="100%" alt="Thanks for visiting!"/>
+<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/69240b64208c40b9a343f1808f5a93825dfe688b/assets/cosmic-footer.svg" width="100%" alt="Thanks for visiting!"/>
 
 </div>
 
