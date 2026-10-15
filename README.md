@@ -79,16 +79,16 @@
 </td>
 <td align="center" width="280">
 <a href="https://iq-spiral-galaxy.github.io/">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/69240b64208c40b9a343f1808f5a93825dfe688b/assets/spiral-galaxy.svg" width="150" alt="Spiral Galaxy — a black hole and its accretion disk"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/singulearn.svg" width="150" alt="Singulearn — 블랙홀과 샴페인빛 강착 원반"/>
   <br/>
-  <b>Spiral&nbsp;Galaxy</b>
+  <b>Singulearn</b>
 </a>
 <br/>
-<sub>나선형 학습 은하</sub>
+<sub>배움의 특이점</sub>
 <br/>
 <br/>
 <a href="https://iq-spiral-galaxy.github.io/">
-  <img src="https://img.shields.io/badge/Enter_Galaxy-a855f7?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Start_Learning-8b6b3f?style=flat-square&logo=githubpages&logoColor=white" alt="싱글런에서 학습 시작"/>
 </a>
 </td>
 <td align="center" width="280">
@@ -315,37 +315,38 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%23a855f7" width="16" align="center"/> &nbsp;<b>Spiral Galaxy</b> &nbsp;—&nbsp; 다섯 연구소를 나선형 학습으로 연결하는 허브</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%238b6b3f" width="16" align="center"/> &nbsp;<b>Singulearn · 싱글런</b> &nbsp;—&nbsp; 배움의 특이점</summary>
 
 <br/>
 
 <table width="100%">
 <tr>
 <td colspan="2">
-<strong>“Don't just read it — spiral into it.”</strong>
+<strong>넓게 배우고, 깊이 연결합니다</strong>
 <br/><br/>
-Dev · AI · Phronesis · Physis · Psyche의 지식을 <strong>하나의 나선형 학습 경험</strong>으로 연결하는 은하.
+궁금한 주제에서 시작해, <strong>질문하고 기록하며 이해를 쌓는 데스크톱 학습 앱</strong><br/>
+같은 개념을 다시 만나며 이해를 깊게 하고, 서로 다른 분야의 지식을 연결합니다
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">연결 대상</th>
+<th scope="row" width="96" align="left" valign="top">학습 분야</th>
 <td>
-<code>Dev</code>
-<code>AI</code>
-<code>Phronesis</code>
-<code>Physis</code>
-<code>Psyche</code>
+<code>수학·AI</code>
+<code>판단·실천지</code>
+<code>개발·시스템</code>
+<code>물리·우주</code>
+<code>뇌·마음</code>
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">허브 역할</th>
-<td>여섯 번째 랩이 아닌, 다섯 랩을 잇는 학습 허브</td>
+<th scope="row" width="96" align="left" valign="top">학습 흐름</th>
+<td>주제 선택 → 질문과 탐구 → 내 언어로 기록 → 다시 연결하며 학습</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-spiral-galaxy.github.io/"><img src="https://img.shields.io/badge/Enter_Galaxy-7e22ce?style=flat-square&logo=githubpages&logoColor=white" alt="Enter Spiral Galaxy"/></a>
-<a href="https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Spiral Galaxy GitHub repository"/></a>
+<a href="https://iq-spiral-galaxy.github.io/"><img src="https://img.shields.io/badge/Start_Learning-8b6b3f?style=flat-square&logo=githubpages&logoColor=white" alt="싱글런에서 학습 시작"/></a>
+<a href="https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Singulearn GitHub 저장소"/></a>
 </td>
 </tr>
 </table>
