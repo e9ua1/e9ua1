@@ -409,7 +409,7 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/orbit.svg?color=%231a1a1a" width="28"/> Woowa 8th BE
+## <img src="https://api.iconify.design/lucide/orbit.svg?color=%231a1a1a" width="28"/> Woowa Tech Course
 
 <table width="100%">
 <tr>
