@@ -12,8 +12,6 @@
 
 <div align="center">
 
-<sub>✦ &nbsp; FIVE LABS · ONE GALAXY OF QUESTIONS &nbsp; ✦</sub>
-
 <br/>
 <br/>
 
