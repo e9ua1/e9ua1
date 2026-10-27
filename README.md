@@ -12,9 +12,6 @@
 
 <div align="center">
 
-<br/>
-<br/>
-
 <table align="center">
 <tr>
 <td align="center" width="280">
