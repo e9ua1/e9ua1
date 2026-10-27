@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/69240b64208c40b9a343f1808f5a93825dfe688b/assets/supernova-header.svg" width="100%" alt="Hello, I'm IQ — Nice To Meet You"/>
 
-<i>✦ &nbsp; I question, therefore I am. &nbsp; ✦</i>
-
 </div>
 
 <br/>
