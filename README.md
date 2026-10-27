@@ -377,7 +377,7 @@
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/book-text.svg?color=%231a1a1a" width="28"/> IQ Blog
+## <img src="https://api.iconify.design/lucide/book-text.svg?color=%231a1a1a" width="28"/> Blog
 
 <table width="100%">
 <tr>
