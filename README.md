@@ -117,7 +117,7 @@
 <td colspan="2">
 <strong>“Beyond the docs — into the essence of building software.”</strong>
 <br/><br/>
-공식 문서를 넘어 <strong>소프트웨어 개발 전반의 본질</strong>을 끝까지 파고드는 연구소.
+소프트웨어의 <strong>동작 원리와 설계</strong>를 탐구하는 연구소
 </td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@
 <td colspan="2">
 <strong>“Prove, don't memorize — the math behind AI.”</strong>
 <br/><br/>
-수학적 증명으로 <strong>AI 알고리즘의 본질</strong>을 파고드는 연구소.
+수학적 증명으로 <strong>AI의 본질</strong>을 파고드는 연구소
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@
 <td colspan="2">
 <strong>“Knowledge that doesn't change a decision is trivia.”</strong>
 <br/><br/>
-돈·사람·게임의 규칙을 <strong>메커니즘까지 해부하고, 판단 규칙으로 증류</strong>하는 실천적 지혜 연구소.
+돈과 사람, 사회를 이해하고 <strong>판단의 기준</strong>을 세우는 연구소
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@
 <td colspan="2">
 <strong>“Derive, don't accept — from the fewest principles, the widest world.”</strong>
 <br/><br/>
-공식을 외우는 대신, <strong>가장 적은 원리에서 가장 넓은 세계를 유도</strong>하는 물리 본질 연구소.
+기본 법칙에서 출발해 <strong>자연과 우주의 작동 원리</strong>를 탐구하는 연구소
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@
 <td colspan="2">
 <strong>“Explain it, don't explain it away.”</strong>
 <br/><br/>
-뉴런이라는 가장 단단한 바닥에서 <em>경험하는 나 자신</em>까지, <strong>마음을 한 층씩 쌓아 올려 설명</strong>하는 연구소. 설명이 끝내 닿지 못하는 곳을 지우지 않고 정직하게 표시합니다.
+뇌의 작동 원리부터 <strong>인지와 의식, 자아</strong>까지 탐구하는 연구소
 </td>
 </tr>
 <tr>
@@ -322,8 +322,7 @@
 <td colspan="2">
 <strong>“Learn broadly. Connect deeply.”</strong>
 <br/><br/>
-궁금한 주제에서 시작해, <strong>질문하고 기록하며 이해를 쌓는 데스크톱 학습 앱</strong><br/>
-같은 개념을 다시 만나며 이해를 깊게 하고, 서로 다른 분야의 지식을 연결합니다
+<strong>질문·기록·반복 학습</strong>으로 다섯 연구소의 지식을 연결하는 데스크톱 학습 앱
 </td>
 </tr>
 <tr>
