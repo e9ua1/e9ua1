@@ -127,11 +127,9 @@
 <code>Frontend</code>
 <code>iOS</code>
 <code>Android</code>
-<code>Cross-Platform</code>
 <code>Architecture</code>
 <code>Infra</code>
 <code>Database</code>
-<code>Languages</code>
 <code>CS</code>
 </td>
 </tr>
