@@ -19,7 +19,7 @@
   <b>Dev&nbsp;Lab</b>
 </a>
 <br/>
-<sub>소프트웨어 연구소</sub>
+<sub>개발 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
@@ -33,7 +33,7 @@
   <b>AI&nbsp;Lab</b>
 </a>
 <br/>
-<sub>AI의 수학적 원리 연구소</sub>
+<sub>AI·수학 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
@@ -108,7 +108,7 @@
 ## <img src="https://api.iconify.design/lucide/telescope.svg?color=%231a1a1a" width="28"/> Details
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>Dev Lab</b> &nbsp;—&nbsp; 소프트웨어 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>Dev Lab</b> &nbsp;—&nbsp; 개발 연구소</summary>
 
 <br/>
 
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>AI Lab</b> &nbsp;—&nbsp; AI의 수학적 원리 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>AI Lab</b> &nbsp;—&nbsp; AI·수학 연구소</summary>
 
 <br/>
 
@@ -308,7 +308,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%238b6b3f" width="16" align="center"/> &nbsp;<b>Singulearn · 싱글런</b> &nbsp;—&nbsp; 배움의 특이점</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/orbit.svg?color=%238b6b3f" width="16" align="center"/> &nbsp;<b>Singulearn</b> &nbsp;—&nbsp; 배움의 특이점</summary>
 
 <br/>
 
