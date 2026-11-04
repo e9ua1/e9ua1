@@ -19,7 +19,7 @@
   <b>IQ&nbsp;Dev&nbsp;Lab</b>
 </a>
 <br/>
-<sub>개발 전 영역 연구소</sub>
+<sub>소프트웨어 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-dev-lab.github.io">
@@ -33,7 +33,7 @@
   <b>IQ&nbsp;AI&nbsp;Lab</b>
 </a>
 <br/>
-<sub>AI 수학적 본질 연구소</sub>
+<sub>AI의 수학적 원리 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-ai-lab.github.io">
@@ -63,7 +63,7 @@
   <b>IQ&nbsp;Physis&nbsp;Lab</b>
 </a>
 <br/>
-<sub>물리 제1원리 연구소</sub>
+<sub>물리 연구소</sub>
 <br/>
 <br/>
 <a href="https://iq-physis-lab.github.io">
@@ -108,7 +108,7 @@
 ## <img src="https://api.iconify.design/lucide/telescope.svg?color=%231a1a1a" width="28"/> Details
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>IQ Dev Lab</b> &nbsp;—&nbsp; 소프트웨어 개발 전 영역 본질 탐구 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>IQ Dev Lab</b> &nbsp;—&nbsp; 소프트웨어 연구소</summary>
 
 <br/>
 
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>IQ AI Lab</b> &nbsp;—&nbsp; AI의 수학적 본질을 증명하는 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>IQ AI Lab</b> &nbsp;—&nbsp; AI의 수학적 원리 연구소</summary>
 
 <br/>
 
@@ -189,7 +189,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="16" align="center"/> &nbsp;<b>IQ Phronesis Lab</b> &nbsp;—&nbsp; 실천적 지혜를 증류하는 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="16" align="center"/> &nbsp;<b>IQ Phronesis Lab</b> &nbsp;—&nbsp; 실천적 지혜 연구소</summary>
 
 <br/>
 
@@ -228,7 +228,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="16" align="center"/> &nbsp;<b>IQ Physis Lab</b> &nbsp;—&nbsp; 물리학을 제1원리에서 유도하는 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="16" align="center"/> &nbsp;<b>IQ Physis Lab</b> &nbsp;—&nbsp; 물리 연구소</summary>
 
 <br/>
 
@@ -268,7 +268,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="16" height="16" align="center" alt=""/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음과 의식을 뉴런부터 자아까지 쌓아 올리는 연구소</summary>
+<summary>&nbsp;<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="16" height="16" align="center" alt=""/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음·의식 연구소</summary>
 
 <br/>
 
@@ -371,7 +371,7 @@
 <td width="50%" valign="top" nowrap>
 <a href="https://campus.harudle.com/"><img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/></a>&nbsp; <a href="https://campus.harudle.com/"><b>하루들 캠퍼스</b></a>
 <br/><br/>
-우테코 캠퍼스
+우아한테크코스 캠퍼스
 <br/><br/>
 <a href="https://campus.harudle.com/"><img src="https://img.shields.io/badge/Visit_Campus-0e1e46?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 캠퍼스 바로가기"/></a>
 </td>
@@ -417,7 +417,7 @@
 <table width="100%">
 <tr>
 <td colspan="2">
-우아한테크코스 8기 백엔드 기록을 저장하는 곳
+우아한테크코스 8기 백엔드 기록
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">기록 내용</th>
-<td><code>OOP</code> <code>Java</code> <code>Spring</code></td>
+<td><code>OOP</code> <code>Java</code> <code>Spring</code> <code>Infra</code></td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
@@ -537,12 +537,6 @@
 <td align="center"><code>2025.05.24</code></td>
 <td align="center"><img src="https://img.shields.io/badge/Lv.3-a78bfa?style=flat-square" /></td>
 <td>정보통신기획평가원</td>
-</tr>
-<tr>
-<td><img src="https://api.iconify.design/lucide/code-2.svg?color=%23a78bfa" width="18" align="center"/> &nbsp;<b>PCCP [C++]</b><br/><sub>Certified Coding Professional</sub></td>
-<td align="center"><code>2025.02.21</code></td>
-<td align="center"><img src="https://img.shields.io/badge/Lv.2-a78bfa?style=flat-square" /></td>
-<td>프로그래머스</td>
 </tr>
 </tbody>
 </table>
