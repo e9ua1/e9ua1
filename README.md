@@ -354,7 +354,7 @@
 <tr>
 <td>
 <a href="https://www.harudle.com">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 로고"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-service.png" width="40" height="40" align="center" alt="하루들 로고"/>
   &nbsp;<b>하루들 · Harudle</b>
 </a>
 <br/>
@@ -363,7 +363,6 @@
 함께한 순간을 글로 기록하면 <strong>AI 네컷만화</strong>로 만들어 주는 서비스
 <br/><br/>
 <a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Website-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
-<a href="https://github.com/woowacourse-teams/2026-Harudle"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="하루들 GitHub 저장소"/></a>
 </td>
 </tr>
 </table>
@@ -376,7 +375,7 @@
   &nbsp;<b>하루들 월드</b>
 </a>
 <br/><br/>
-퀴즈를 풀고 네컷 이야기를 이어 만드는 3D 공간
+하루들 세계관
 <br/><br/>
 <a href="https://world.harudle.com/"><img src="https://img.shields.io/badge/Visit_World-7355da?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 월드 바로가기"/></a>
 </td>
@@ -386,7 +385,7 @@
   &nbsp;<b>하루들 캠퍼스</b>
 </a>
 <br/><br/>
-우테코 캠퍼스를 걷고 크루들의 네컷만화를 만나는 3D 공간
+우테코 캠퍼스
 <br/><br/>
 <a href="https://campus.harudle.com/"><img src="https://img.shields.io/badge/Visit_Campus-0e1e46?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 캠퍼스 바로가기"/></a>
 </td>
