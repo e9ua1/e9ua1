@@ -400,7 +400,7 @@
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">발행 방식</th>
-<td>학습 기록 → 정리·압축 → 발행</td>
+<td>연구소 지식 → 정리·압축 → 발행</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
