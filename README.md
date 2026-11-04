@@ -371,7 +371,7 @@
 <td width="50%" valign="top" nowrap>
 <a href="https://campus.harudle.com/"><img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/></a>&nbsp; <a href="https://campus.harudle.com/"><b>하루들 캠퍼스</b></a>
 <br/><br/>
-우아한테크코스 캠퍼스
+하루들 캠퍼스
 <br/><br/>
 <a href="https://campus.harudle.com/"><img src="https://img.shields.io/badge/Visit_Campus-0e1e46?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 캠퍼스 바로가기"/></a>
 </td>
@@ -385,22 +385,22 @@
 <table width="100%">
 <tr>
 <td colspan="2">
-본질을 탐구하며 핵심 내용을 압축해 발행하는 공간
+연구소의 지식을 압축해 발행하는 블로그
 </td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">주제</th>
 <td>
 <code>개발</code>
-<code>AI</code>
+<code>AI·수학</code>
 <code>실천적 지혜</code>
-<code>물리학</code>
-<code>마음과 의식</code>
+<code>물리</code>
+<code>마음·의식</code>
 </td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">발행 방식</th>
-<td>탐구한 내용을 압축해 핵심만 남기고 블로그에 발행</td>
+<td>학습 기록 → 정리·압축 → 발행</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
