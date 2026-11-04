@@ -16,7 +16,7 @@
 <a href="https://iq-dev-lab.github.io">
   <img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="28"/>
   <br/>
-  <b>IQ&nbsp;Dev&nbsp;Lab</b>
+  <b>Dev&nbsp;Lab</b>
 </a>
 <br/>
 <sub>소프트웨어 연구소</sub>
@@ -30,7 +30,7 @@
 <a href="https://iq-ai-lab.github.io">
   <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="28"/>
   <br/>
-  <b>IQ&nbsp;AI&nbsp;Lab</b>
+  <b>AI&nbsp;Lab</b>
 </a>
 <br/>
 <sub>AI의 수학적 원리 연구소</sub>
@@ -44,7 +44,7 @@
 <a href="https://iq-phronesis-lab.github.io">
   <img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="28"/>
   <br/>
-  <b>IQ&nbsp;Phronesis&nbsp;Lab</b>
+  <b>Phronesis&nbsp;Lab</b>
 </a>
 <br/>
 <sub>실천적 지혜 연구소</sub>
@@ -60,7 +60,7 @@
 <a href="https://iq-physis-lab.github.io">
   <img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="28"/>
   <br/>
-  <b>IQ&nbsp;Physis&nbsp;Lab</b>
+  <b>Physis&nbsp;Lab</b>
 </a>
 <br/>
 <sub>물리 연구소</sub>
@@ -88,7 +88,7 @@
 <a href="https://iq-psyche-lab.github.io">
   <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="28" height="28" alt=""/>
   <br/>
-  <b>IQ&nbsp;Psyche&nbsp;Lab</b>
+  <b>Psyche&nbsp;Lab</b>
 </a>
 <br/>
 <sub>마음·의식 연구소</sub>
@@ -108,7 +108,7 @@
 ## <img src="https://api.iconify.design/lucide/telescope.svg?color=%231a1a1a" width="28"/> Details
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>IQ Dev Lab</b> &nbsp;—&nbsp; 소프트웨어 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/server-cog.svg?color=%23ff4d4d" width="16" align="center"/> &nbsp;<b>Dev Lab</b> &nbsp;—&nbsp; 소프트웨어 연구소</summary>
 
 <br/>
 
@@ -139,8 +139,8 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Website-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Dev Lab website"/></a>
-<a href="https://github.com/iq-dev-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Dev Lab GitHub organization"/></a>
+<a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Website-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="Dev Lab website"/></a>
+<a href="https://github.com/iq-dev-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Dev Lab GitHub organization"/></a>
 </td>
 </tr>
 </table>
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>IQ AI Lab</b> &nbsp;—&nbsp; AI의 수학적 원리 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23a78bfa" width="16" align="center"/> &nbsp;<b>AI Lab</b> &nbsp;—&nbsp; AI의 수학적 원리 연구소</summary>
 
 <br/>
 
@@ -180,8 +180,8 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-ai-lab.github.io"><img src="https://img.shields.io/badge/Website-6d28d9?style=flat-square&logo=githubpages&logoColor=white" alt="IQ AI Lab website"/></a>
-<a href="https://github.com/iq-ai-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ AI Lab GitHub organization"/></a>
+<a href="https://iq-ai-lab.github.io"><img src="https://img.shields.io/badge/Website-6d28d9?style=flat-square&logo=githubpages&logoColor=white" alt="AI Lab website"/></a>
+<a href="https://github.com/iq-ai-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="AI Lab GitHub organization"/></a>
 </td>
 </tr>
 </table>
@@ -189,7 +189,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="16" align="center"/> &nbsp;<b>IQ Phronesis Lab</b> &nbsp;—&nbsp; 실천적 지혜 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/compass.svg?color=%23f59e0b" width="16" align="center"/> &nbsp;<b>Phronesis Lab</b> &nbsp;—&nbsp; 실천적 지혜 연구소</summary>
 
 <br/>
 
@@ -219,8 +219,8 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-phronesis-lab.github.io"><img src="https://img.shields.io/badge/Website-92400e?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Phronesis Lab website"/></a>
-<a href="https://github.com/iq-phronesis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Phronesis Lab GitHub organization"/></a>
+<a href="https://iq-phronesis-lab.github.io"><img src="https://img.shields.io/badge/Website-92400e?style=flat-square&logo=githubpages&logoColor=white" alt="Phronesis Lab website"/></a>
+<a href="https://github.com/iq-phronesis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Phronesis Lab GitHub organization"/></a>
 </td>
 </tr>
 </table>
@@ -228,7 +228,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="16" align="center"/> &nbsp;<b>IQ Physis Lab</b> &nbsp;—&nbsp; 물리 연구소</summary>
+<summary>&nbsp;<img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1" width="16" align="center"/> &nbsp;<b>Physis Lab</b> &nbsp;—&nbsp; 물리 연구소</summary>
 
 <br/>
 
@@ -259,8 +259,8 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Website-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Physis Lab website"/></a>
-<a href="https://github.com/iq-physis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Physis Lab GitHub organization"/></a>
+<a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Website-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="Physis Lab website"/></a>
+<a href="https://github.com/iq-physis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Physis Lab GitHub organization"/></a>
 </td>
 </tr>
 </table>
@@ -268,7 +268,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="16" height="16" align="center" alt=""/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음·의식 연구소</summary>
+<summary>&nbsp;<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="16" height="16" align="center" alt=""/> &nbsp;<b>Psyche Lab</b> &nbsp;—&nbsp; 마음·의식 연구소</summary>
 
 <br/>
 
@@ -299,8 +299,8 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Website-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="IQ Psyche Lab website"/></a>
-<a href="https://github.com/iq-psyche-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="IQ Psyche Lab GitHub organization"/></a>
+<a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Website-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="Psyche Lab website"/></a>
+<a href="https://github.com/iq-psyche-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Psyche Lab GitHub organization"/></a>
 </td>
 </tr>
 </table>
@@ -426,7 +426,7 @@
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">기록 내용</th>
-<td><code>OOP</code> <code>Java</code> <code>Spring</code> <code>Infra</code></td>
+<td><code>OOP</code> <code>Java</code> <code>Spring</code> <code>Infra</code> <code>Soft Skills</code></td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
