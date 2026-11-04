@@ -135,10 +135,6 @@
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>원리 → 트레이드오프 → 설계 → 구현 → 검증</td>
-</tr>
-<tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
 <a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Lab-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="Dev Lab 바로가기"/></a>
@@ -162,24 +158,30 @@
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 영역</th>
+<th scope="row" width="96" align="left" valign="top">수학</th>
 <td>
-<code>Mathematics</code>
-<code>ML Theory</code>
-<code>Neural Network Theory</code>
-<code>Architectures</code>
-<code>Reinforcement Learning</code>
-<code>Large Language Models</code>
-<code>Computer Vision &amp; 3D</code>
-<code>NLP</code>
-<code>Audio &amp; Speech</code>
-<code>Systems</code>
-<code>Frontier LLM</code>
+<code>Linear Algebra</code>
+<code>Probability Theory</code>
+<code>Mathematical Statistics</code>
+<code>Calculus &amp; Optimization</code>
+<code>Convex Optimization</code>
+<code>Information Theory</code>
+<code>Stochastic Analysis</code>
+<code>Functional Analysis</code>
+<code>Information Geometry</code>
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>가정 → 보조정리 → 증명 → 구현 → 통찰</td>
+<th scope="row" width="96" align="left" valign="top">AI</th>
+<td>
+<code>ML</code>
+<code>NN</code>
+<code>RL</code>
+<code>LLM/NLP</code>
+<code>CV/3D</code>
+<code>Audio/Speech</code>
+<code>Systems</code>
+</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
@@ -213,10 +215,6 @@
 <code>Rules of the Game</code>
 <code>Reading the World</code>
 </td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>탐색 → 원리 분석 → 반례 검증 → 판단 규칙 도출 → 기록</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
@@ -253,10 +251,6 @@
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>제1원리 → 유도 → 반증 → 경계 → 창발</td>
-</tr>
-<tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
 <a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Lab-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="Physis Lab 바로가기"/></a>
@@ -291,10 +285,6 @@
 </td>
 </tr>
 <tr>
-<th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>탐색 → 원리 분석 → 검증 → 연결 → 기록</td>
-</tr>
-<tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
 <a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Lab-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="Psyche Lab 바로가기"/></a>
@@ -326,10 +316,6 @@
 <code>Physis</code>
 <code>Psyche</code>
 </td>
-</tr>
-<tr>
-<th scope="row" width="96" align="left" valign="top">학습 흐름</th>
-<td>주제 선택 → 질문과 탐구 → 내 언어로 기록 → 다시 연결하며 학습</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
