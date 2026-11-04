@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="header-title header-description">
   <title id="header-title">Hello, I'm IQ — Nice to meet you</title>
-  <desc id="header-description">A quiet welcome beside a quasar: an ink-dark center, a champagne and ice-blue accretion disk, and a restrained polar jet in deep space.</desc>
+  <desc id="header-description">A quiet welcome beside a quasar, with Nice to meet you typed one letter at a time. Motion preferences are respected.</desc>
   <defs>
     <linearGradient id="h-space" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#040711"/>
@@ -70,6 +70,79 @@
   <style>
     @keyframes h-luminosity { 0%,100% {opacity:.86} 50% {opacity:1} }
     @keyframes h-jet-light { 0%,100% {opacity:.7} 50% {opacity:.88} }
+    @keyframes h-letter-1 {0% {opacity:0} 10% {opacity:1} 93%,100% {opacity:0}}
+    @keyframes h-letter-2 {0% {opacity:0} 11.6% {opacity:1} 92%,100% {opacity:0}}
+    @keyframes h-letter-3 {0% {opacity:0} 13.2% {opacity:1} 91%,100% {opacity:0}}
+    @keyframes h-letter-4 {0% {opacity:0} 14.8% {opacity:1} 90%,100% {opacity:0}}
+    @keyframes h-letter-5 {0% {opacity:0} 16.4% {opacity:1} 89%,100% {opacity:0}}
+    @keyframes h-letter-6 {0% {opacity:0} 18% {opacity:1} 88%,100% {opacity:0}}
+    @keyframes h-letter-7 {0% {opacity:0} 19.6% {opacity:1} 87%,100% {opacity:0}}
+    @keyframes h-letter-8 {0% {opacity:0} 21.2% {opacity:1} 86%,100% {opacity:0}}
+    @keyframes h-letter-9 {0% {opacity:0} 22.8% {opacity:1} 85%,100% {opacity:0}}
+    @keyframes h-letter-10 {0% {opacity:0} 24.4% {opacity:1} 84%,100% {opacity:0}}
+    @keyframes h-letter-11 {0% {opacity:0} 26% {opacity:1} 83%,100% {opacity:0}}
+    @keyframes h-letter-12 {0% {opacity:0} 27.6% {opacity:1} 82%,100% {opacity:0}}
+    @keyframes h-letter-13 {0% {opacity:0} 29.2% {opacity:1} 81%,100% {opacity:0}}
+    @keyframes h-letter-14 {0% {opacity:0} 30.8% {opacity:1} 80%,100% {opacity:0}}
+    @keyframes h-letter-15 {0% {opacity:0} 32.4% {opacity:1} 79%,100% {opacity:0}}
+    @keyframes h-letter-16 {0% {opacity:0} 34% {opacity:1} 78%,100% {opacity:0}}
+    @keyframes h-caret-position {
+      0%,8%,100% {transform:translateX(0px)}
+      10% {transform:translateX(26.86px)}
+      11.6% {transform:translateX(38.6px)}
+      13.2% {transform:translateX(65.46px)}
+      14.8% {transform:translateX(90.44px)}
+      16.4% {transform:translateX(101.88px)}
+      18% {transform:translateX(124.35px)}
+      19.6% {transform:translateX(152.8px)}
+      21.2% {transform:translateX(164.55px)}
+      22.8% {transform:translateX(195.17px)}
+      24.4% {transform:translateX(220.15px)}
+      26% {transform:translateX(245.13px)}
+      27.6% {transform:translateX(267.9px)}
+      29.2% {transform:translateX(279.05px)}
+      30.8% {transform:translateX(303.72px)}
+      32.4% {transform:translateX(332.47px)}
+      34% {transform:translateX(359.32px)}
+      77% {transform:translateX(359.32px)}
+      78% {transform:translateX(332.47px)}
+      79% {transform:translateX(303.72px)}
+      80% {transform:translateX(279.05px)}
+      81% {transform:translateX(267.9px)}
+      82% {transform:translateX(245.13px)}
+      83% {transform:translateX(220.15px)}
+      84% {transform:translateX(195.17px)}
+      85% {transform:translateX(164.55px)}
+      86% {transform:translateX(152.8px)}
+      87% {transform:translateX(124.35px)}
+      88% {transform:translateX(101.88px)}
+      89% {transform:translateX(90.44px)}
+      90% {transform:translateX(65.46px)}
+      91% {transform:translateX(38.6px)}
+      92% {transform:translateX(26.86px)}
+      93% {transform:translateX(0px)}
+    }
+    @keyframes h-caret-blink {0%,49% {opacity:.85} 50%,100% {opacity:0}}
+    .h-type-caret {opacity:0}
+    @media(prefers-reduced-motion:no-preference) {
+      .h-letter-1 {animation:h-letter-1 9s step-end infinite}
+      .h-letter-2 {animation:h-letter-2 9s step-end infinite}
+      .h-letter-3 {animation:h-letter-3 9s step-end infinite}
+      .h-letter-4 {animation:h-letter-4 9s step-end infinite}
+      .h-letter-5 {animation:h-letter-5 9s step-end infinite}
+      .h-letter-6 {animation:h-letter-6 9s step-end infinite}
+      .h-letter-7 {animation:h-letter-7 9s step-end infinite}
+      .h-letter-8 {animation:h-letter-8 9s step-end infinite}
+      .h-letter-9 {animation:h-letter-9 9s step-end infinite}
+      .h-letter-10 {animation:h-letter-10 9s step-end infinite}
+      .h-letter-11 {animation:h-letter-11 9s step-end infinite}
+      .h-letter-12 {animation:h-letter-12 9s step-end infinite}
+      .h-letter-13 {animation:h-letter-13 9s step-end infinite}
+      .h-letter-14 {animation:h-letter-14 9s step-end infinite}
+      .h-letter-15 {animation:h-letter-15 9s step-end infinite}
+      .h-letter-16 {animation:h-letter-16 9s step-end infinite}
+      .h-type-caret {animation:h-caret-position 9s step-end infinite,h-caret-blink .7s step-end infinite}
+    }
     .h-disk-light {animation:h-luminosity 24s ease-in-out infinite}
     .h-polar-light {animation:h-jet-light 28s ease-in-out infinite}
     @media(prefers-reduced-motion:reduce) {.h-disk-light,.h-polar-light {animation:none}}
@@ -127,7 +200,10 @@
     <rect width="1200" height="320" fill="url(#h-text-field)"/>
     <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
       <text x="80" y="145" fill="#f1f3f7" font-size="58" font-weight="500" letter-spacing="1.2">HELLO, I'M IQ</text>
-      <text x="83" y="194" fill="#a8b5c9" font-size="34" font-weight="400" letter-spacing="2.3">NICE TO MEET YOU</text>
+      <g transform="translate(83 194)">
+        <text x="0" y="0" fill="#a8b5c9" font-size="34" font-weight="400" letter-spacing="2.3" xml:space="preserve"><tspan class="h-letter-1">N</tspan><tspan class="h-letter-2">I</tspan><tspan class="h-letter-3">C</tspan><tspan class="h-letter-4">E</tspan><tspan class="h-letter-5"> </tspan><tspan class="h-letter-6">T</tspan><tspan class="h-letter-7">O</tspan><tspan class="h-letter-8"> </tspan><tspan class="h-letter-9">M</tspan><tspan class="h-letter-10">E</tspan><tspan class="h-letter-11">E</tspan><tspan class="h-letter-12">T</tspan><tspan class="h-letter-13"> </tspan><tspan class="h-letter-14">Y</tspan><tspan class="h-letter-15">O</tspan><tspan class="h-letter-16">U</tspan></text>
+        <rect class="h-type-caret" x="2" y="-29" width="2" height="33" rx="1" fill="#d9c6a3"/>
+      </g>
     </g>
     <rect x="84" y="214" width="173" height="1" fill="url(#h-rule)"/>
     <rect x=".5" y=".5" width="1199" height="319" rx="23.5" fill="none" stroke="#abb9d0" stroke-opacity=".1"/>
