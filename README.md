@@ -352,7 +352,7 @@
 
 <table width="100%">
 <tr>
-<td>
+<td colspan="2">
 <a href="https://www.harudle.com">
   <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-service.png" width="40" height="40" align="center" alt="하루들 로고"/>
   &nbsp;<b>하루들 · Harudle</b>
@@ -365,11 +365,8 @@
 <a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Website-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" nowrap>
 <a href="https://world.harudle.com/">
   <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 월드 로고"/>
   &nbsp;<b>하루들 월드</b>
@@ -379,7 +376,7 @@
 <br/><br/>
 <a href="https://world.harudle.com/"><img src="https://img.shields.io/badge/Visit_World-7355da?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 월드 바로가기"/></a>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" nowrap>
 <a href="https://campus.harudle.com/">
   <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/>
   &nbsp;<b>하루들 캠퍼스</b>
