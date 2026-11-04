@@ -123,23 +123,16 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 영역</th>
 <td>
-<code>Foundations</code>
-<code>Languages &amp; Runtimes</code>
-<code>Java Core</code>
-<code>Spring Ecosystem</code>
-<code>Architecture &amp; Design</code>
-<code>Infrastructure &amp; DevOps</code>
-<code>Database</code>
-<code>Messaging &amp; Streaming</code>
-<code>API &amp; Communication</code>
-<code>Security Engineering</code>
-<code>Performance &amp; Quality</code>
-<code>Data Engineering</code>
-<code>Web Platform &amp; Engine</code>
-<code>Web Language &amp; Framework</code>
-<code>Android</code>
+<code>Backend</code>
+<code>Frontend</code>
 <code>iOS</code>
+<code>Android</code>
 <code>Cross-Platform</code>
+<code>Architecture</code>
+<code>Infra</code>
+<code>Database</code>
+<code>Languages</code>
+<code>CS</code>
 </td>
 </tr>
 <tr>
