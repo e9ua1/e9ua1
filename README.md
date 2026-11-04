@@ -86,7 +86,7 @@
 </td>
 <td align="center" width="280">
 <a href="https://iq-psyche-lab.github.io">
-  <img src="https://api.iconify.design/lucide/brain.svg?color=%23ec4899" width="28"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="28" height="28" alt=""/>
   <br/>
   <b>IQ&nbsp;Psyche&nbsp;Lab</b>
 </a>
@@ -268,7 +268,7 @@
 </details>
 
 <details>
-<summary>&nbsp;<img src="https://api.iconify.design/lucide/brain.svg?color=%23ec4899" width="16" align="center"/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음과 의식을 뉴런부터 자아까지 쌓아 올리는 연구소</summary>
+<summary>&nbsp;<img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/psyche.svg" width="16" height="16" align="center" alt=""/> &nbsp;<b>IQ Psyche Lab</b> &nbsp;—&nbsp; 마음과 의식을 뉴런부터 자아까지 쌓아 올리는 연구소</summary>
 
 <br/>
 
@@ -354,7 +354,7 @@
 <tr>
 <td>
 <a href="https://www.harudle.com">
-  <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%23f97316" width="28" alt="하루들"/>
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 로고"/>
   &nbsp;<b>하루들 · Harudle</b>
 </a>
 <br/>
@@ -364,6 +364,31 @@
 <br/><br/>
 <a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Website-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
 <a href="https://github.com/woowacourse-teams/2026-Harudle"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="하루들 GitHub 저장소"/></a>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<a href="https://world.harudle.com/">
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 월드 로고"/>
+  &nbsp;<b>하루들 월드</b>
+</a>
+<br/><br/>
+퀴즈를 풀고 네컷 이야기를 이어 만드는 3D 공간
+<br/><br/>
+<a href="https://world.harudle.com/"><img src="https://img.shields.io/badge/Visit_World-7355da?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 월드 바로가기"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://campus.harudle.com/">
+  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/>
+  &nbsp;<b>하루들 캠퍼스</b>
+</a>
+<br/><br/>
+우테코 캠퍼스를 걷고 크루들의 네컷만화를 만나는 3D 공간
+<br/><br/>
+<a href="https://campus.harudle.com/"><img src="https://img.shields.io/badge/Visit_Campus-0e1e46?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 캠퍼스 바로가기"/></a>
 </td>
 </tr>
 </table>
