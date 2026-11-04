@@ -357,7 +357,7 @@
 <br/><br/>
 함께한 순간을 글로 기록하면 <strong>AI 네컷만화</strong>로 만들어 주는 서비스
 <br/><br/>
-<a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Website-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
+<a href="https://www.harudle.com"><img src="https://img.shields.io/badge/Visit_Harudle-f97316?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 서비스 바로가기"/></a>
 </td>
 </tr>
 <tr>
