@@ -353,12 +353,7 @@
 <table width="100%">
 <tr>
 <td colspan="2">
-<a href="https://www.harudle.com">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-service.png" width="40" height="40" align="center" alt="하루들 로고"/>
-  &nbsp;<b>하루들 · Harudle</b>
-</a>
-<br/>
-<sub>우아한테크코스 8기 팀 프로젝트</sub>
+<a href="https://www.harudle.com"><img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-service.png" width="40" height="40" align="center" alt="하루들 로고"/></a>&nbsp; <a href="https://www.harudle.com"><b>하루들</b></a>
 <br/><br/>
 함께한 순간을 글로 기록하면 <strong>AI 네컷만화</strong>로 만들어 주는 서비스
 <br/><br/>
@@ -367,20 +362,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top" nowrap>
-<a href="https://world.harudle.com/">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 월드 로고"/>
-  &nbsp;<b>하루들 월드</b>
-</a>
+<a href="https://world.harudle.com/"><img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-world.svg" width="40" height="40" align="center" alt="하루들 월드 로고"/></a>&nbsp; <a href="https://world.harudle.com/"><b>하루들 월드</b></a>
 <br/><br/>
 하루들 세계관
 <br/><br/>
 <a href="https://world.harudle.com/"><img src="https://img.shields.io/badge/Visit_World-7355da?style=flat-square&logo=googlechrome&logoColor=white" alt="하루들 월드 바로가기"/></a>
 </td>
 <td width="50%" valign="top" nowrap>
-<a href="https://campus.harudle.com/">
-  <img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/>
-  &nbsp;<b>하루들 캠퍼스</b>
-</a>
+<a href="https://campus.harudle.com/"><img src="https://raw.githubusercontent.com/e9ua1/e9ua1/main/assets/harudle-campus.svg" width="40" height="40" align="center" alt="하루들 캠퍼스 로고"/></a>&nbsp; <a href="https://campus.harudle.com/"><b>하루들 캠퍼스</b></a>
 <br/><br/>
 우테코 캠퍼스
 <br/><br/>
