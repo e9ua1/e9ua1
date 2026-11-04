@@ -130,6 +130,7 @@
 <code>Architecture</code>
 <code>Infra</code>
 <code>Database</code>
+<code>Data Engineering</code>
 <code>CS</code>
 </td>
 </tr>
