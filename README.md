@@ -123,13 +123,23 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 영역</th>
 <td>
-<code>Backend</code>
-<code>Frontend</code>
-<code>iOS</code>
-<code>Android</code>
-<code>Architecture</code>
-<code>Infrastructure</code>
+<code>Foundations</code>
+<code>Languages &amp; Runtimes</code>
+<code>Java Core</code>
+<code>Spring Ecosystem</code>
+<code>Architecture &amp; Design</code>
+<code>Infrastructure &amp; DevOps</code>
 <code>Database</code>
+<code>Messaging &amp; Streaming</code>
+<code>API &amp; Communication</code>
+<code>Security Engineering</code>
+<code>Performance &amp; Quality</code>
+<code>Data Engineering</code>
+<code>Web Platform &amp; Engine</code>
+<code>Web Language &amp; Framework</code>
+<code>Android</code>
+<code>iOS</code>
+<code>Cross-Platform</code>
 </td>
 </tr>
 <tr>
@@ -139,8 +149,7 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Website-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="Dev Lab website"/></a>
-<a href="https://github.com/iq-dev-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Dev Lab GitHub organization"/></a>
+<a href="https://iq-dev-lab.github.io"><img src="https://img.shields.io/badge/Lab-b91c1c?style=flat-square&logo=githubpages&logoColor=white" alt="Dev Lab 바로가기"/></a>
 </td>
 </tr>
 </table>
@@ -163,14 +172,17 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 영역</th>
 <td>
-<code>RL</code>
-<code>DL</code>
-<code>CV</code>
+<code>Mathematics</code>
+<code>ML Theory</code>
+<code>Neural Network Theory</code>
+<code>Architectures</code>
+<code>Reinforcement Learning</code>
+<code>Large Language Models</code>
+<code>Computer Vision &amp; 3D</code>
 <code>NLP</code>
-<code>LLM</code>
-<code>Generative</code>
-<code>Audio</code>
-<code>Math</code>
+<code>Audio &amp; Speech</code>
+<code>Systems</code>
+<code>Frontier LLM</code>
 </td>
 </tr>
 <tr>
@@ -180,8 +192,7 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-ai-lab.github.io"><img src="https://img.shields.io/badge/Website-6d28d9?style=flat-square&logo=githubpages&logoColor=white" alt="AI Lab website"/></a>
-<a href="https://github.com/iq-ai-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="AI Lab GitHub organization"/></a>
+<a href="https://iq-ai-lab.github.io"><img src="https://img.shields.io/badge/Lab-6d28d9?style=flat-square&logo=githubpages&logoColor=white" alt="AI Lab 바로가기"/></a>
 </td>
 </tr>
 </table>
@@ -204,23 +215,21 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 영역</th>
 <td>
-<code>Thinking</code>
+<code>Thinking Tools</code>
 <code>Money</code>
 <code>People</code>
-<code>Rules</code>
-<code>World</code>
-<code>Synthesis</code>
+<code>Rules of the Game</code>
+<code>Reading the World</code>
 </td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>Explore → Mechanism → Stress-test → Distill → Document</td>
+<td>탐색 → 원리 분석 → 반례 검증 → 판단 규칙 도출 → 기록</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-phronesis-lab.github.io"><img src="https://img.shields.io/badge/Website-92400e?style=flat-square&logo=githubpages&logoColor=white" alt="Phronesis Lab website"/></a>
-<a href="https://github.com/iq-phronesis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Phronesis Lab GitHub organization"/></a>
+<a href="https://iq-phronesis-lab.github.io"><img src="https://img.shields.io/badge/Lab-92400e?style=flat-square&logo=githubpages&logoColor=white" alt="Phronesis Lab 바로가기"/></a>
 </td>
 </tr>
 </table>
@@ -243,13 +252,12 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 영역</th>
 <td>
-<code>Language</code>
-<code>Classical</code>
-<code>Statistical</code>
-<code>Quantum</code>
-<code>Relativity</code>
-<code>Frontier</code>
-<code>Synthesis</code>
+<code>Language of Physics</code>
+<code>Classical World</code>
+<code>Statistical World</code>
+<code>Quantum World</code>
+<code>Relativity &amp; Cosmos</code>
+<code>Frontier: The Unfinished</code>
 </td>
 </tr>
 <tr>
@@ -259,8 +267,7 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Website-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="Physis Lab website"/></a>
-<a href="https://github.com/iq-physis-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Physis Lab GitHub organization"/></a>
+<a href="https://iq-physis-lab.github.io"><img src="https://img.shields.io/badge/Lab-4338ca?style=flat-square&logo=githubpages&logoColor=white" alt="Physis Lab 바로가기"/></a>
 </td>
 </tr>
 </table>
@@ -286,21 +293,19 @@
 <code>Language of Mind</code>
 <code>Neural Substrate</code>
 <code>Cognition</code>
-<code>Computational Mind</code>
+<code>The Computational Mind</code>
 <code>Consciousness</code>
 <code>The Self</code>
-<code>Synthesis</code>
 </td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">탐구 흐름</th>
-<td>Explore → Mechanism → Test → Connect → Document</td>
+<td>탐색 → 원리 분석 → 검증 → 연결 → 기록</td>
 </tr>
 <tr>
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
-<a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Website-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="Psyche Lab website"/></a>
-<a href="https://github.com/iq-psyche-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Psyche Lab GitHub organization"/></a>
+<a href="https://iq-psyche-lab.github.io"><img src="https://img.shields.io/badge/Lab-be185d?style=flat-square&logo=githubpages&logoColor=white" alt="Psyche Lab 바로가기"/></a>
 </td>
 </tr>
 </table>
@@ -315,7 +320,7 @@
 <table width="100%">
 <tr>
 <td colspan="2">
-<strong>넓게 배우고, 깊이 연결합니다</strong>
+<strong>“Learn broadly. Connect deeply.”</strong>
 <br/><br/>
 궁금한 주제에서 시작해, <strong>질문하고 기록하며 이해를 쌓는 데스크톱 학습 앱</strong><br/>
 같은 개념을 다시 만나며 이해를 깊게 하고, 서로 다른 분야의 지식을 연결합니다
@@ -324,11 +329,11 @@
 <tr>
 <th scope="row" width="96" align="left" valign="top">학습 분야</th>
 <td>
-<code>수학·AI</code>
-<code>판단·실천지</code>
-<code>개발·시스템</code>
-<code>물리·우주</code>
-<code>뇌·마음</code>
+<code>Dev</code>
+<code>AI</code>
+<code>Phronesis</code>
+<code>Physis</code>
+<code>Psyche</code>
 </td>
 </tr>
 <tr>
@@ -339,7 +344,6 @@
 <th scope="row" width="96" align="left" valign="top">바로가기</th>
 <td>
 <a href="https://iq-spiral-galaxy.github.io/"><img src="https://img.shields.io/badge/Start_Learning-8b6b3f?style=flat-square&logo=githubpages&logoColor=white" alt="싱글런에서 학습 시작"/></a>
-<a href="https://github.com/iq-spiral-galaxy/iq-spiral-galaxy.github.io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Singulearn GitHub 저장소"/></a>
 </td>
 </tr>
 </table>
